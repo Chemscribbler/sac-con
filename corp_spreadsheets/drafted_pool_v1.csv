@@ -1,0 +1,291 @@
+Card,Rarity,Type,Faction,Function,Copies
+Elective Upgrade,C,Agenda,HB,Agenda,
+Project Vitruvius,C,Agenda,HB,Agenda,3.0
+Megaprix Qualifier,C,Agenda,HB,Agenda,2.0
+Architect Deployment Test,C,Agenda,HB,Agenda,2.0
+Ontological Dependence,N,Agenda,HB,Agenda,3.0
+Efficiency Committee,N,Agenda,HB,Agenda,2.0
+Ikawah Project,N,Agenda,HB,Agenda,3.0
+Elivagar Bifurcation,N,Agenda,HB,Agenda,
+Hyperloop Extension,N,Agenda,HB,Agenda,1.0
+Project Vacheron,R,Agenda,HB,Agenda,1.0
+Luminal Transubstantiation,R,Agenda,HB,Agenda,1.0
+Accelerated Beta Test,R,Agenda,HB,Agenda,1.0
+Calvin B4L3Y,C,Asset,HB,Economy,3.0
+Refuge Campaign,C,Asset,HB,Economy,1.0
+Nico Campaign,C,Asset,HB,Economy,6.0
+Team Sponsorship,C,Asset,HB,Engine,6.0
+Nightmare Archive,N,Asset,HB,Engine,
+Cybernetics Court,N,Asset,HB,Engine,1.0
+Bass CH1R180G4,N,Asset,HB,Engine,1.0
+Advanced Assembly Lines,N,Asset,HB,Engine,1.0
+Jeeves Model Bioroids,N,Asset,HB,Engine,
+Lakshmi Smartfabrics,R,Asset,HB,Engine,1.0
+MCA Austerity Policy,R,Asset,HB,Engine,
+Estelle Moon,R,Asset,HB,Economy,1.0
+Eli 1.0,C,Ice,HB,Barrier,4.0
+Magnet,C,Ice,HB,CodeGate,2.0
+Seidr Adaptive Barrier,C,Ice,HB,Barrier,5.0
+Ichi 1.0,C,Ice,HB,Sentry,4.0
+Bran 1.0,N,Ice,HB,Barrier,2.0
+Ansel 1.0,N,Ice,HB,Sentry,2.0
+Turing,N,Ice,HB,CodeGate,1.0
+Rototurret,N,Ice,HB,Sentry,2.0
+Gatekeeper,N,Ice,HB,CodeGate,1.0
+Architect,R,Ice,HB,Sentry,
+Fairchild 3.0,R,Ice,HB,CodeGate,1.0
+Loki,R,Ice,HB,Mythic,1.0
+Drafter,R,Ice,HB,Sentry,
+Successful Demonstration,C,Operation,HB,Economy,4.0
+Peak Efficiency,C,Operation,HB,Economy,4.0
+Green Level Clearance,C,Operation,HB,Economy,6.0
+Sprint,C,Operation,HB,Economy,8.0
+Seamless Launch,C,Operation,HB,Engine,2.0
+NEXT Activation Command,N,Operation,HB,Engine,1.0
+Blue Level Clearance,N,Operation,HB,Economy,
+Shipment from MirrorMorph,N,Operation,HB,Engine,1.0
+Lateral Growth,N,Operation,HB,Economy,
+Fast Break,N,Operation,HB,Engine,4.0
+Red Level Clearance,N,Operation,HB,Economy,2.0
+Fully Operational,N,Operation,HB,Economy,
+Biotic Labor,N,Operation,HB,Engine,
+Big Deal,R,Operation,HB,Engine,
+Archived Memories,R,Operation,HB,Engine,
+Violet Level Clearance,R,Operation,HB,Economy,
+Friends in High Places,R,Operation,HB,Engine,
+Tranquility Home Grid,N,Upgrade,HB,Economy,1.0
+Manegarm Skunkworks,N,Upgrade,HB,Engine,2.0
+Mr. Hendrik,N,Upgrade,HB,Engine,2.0
+Jinja City Grid,R,Upgrade,HB,Economy,1.0
+Fetal AI,C,Agenda,jinteki,Agenda,4.0
+Project Yagi-Uda,C,Agenda,jinteki,Agenda,2.0
+House of Knives,C,Agenda,jinteki,Agenda,1.0
+Labyrinthine Servers,C,Agenda,jinteki,Agenda,3.0
+Blood in the Water,N,Agenda,jinteki,Agenda,
+Nisei MK II,N,Agenda,jinteki,Agenda,2.0
+The Future Perfect,N,Agenda,jinteki,Agenda,4.0
+Medical Breakthrough,N,Agenda,jinteki,Agenda,2.0
+Regenesis,N,Agenda,jinteki,Agenda,2.0
+Obokata Protocol,R,Agenda,jinteki,Agenda,1.0
+Philotic Entanglement,R,Agenda,jinteki,Agenda,1.0
+Bacterial Programming,R,Agenda,jinteki,Agenda,
+Turtlebacks,C,Asset,jinteki,Economy,3.0
+Mental Health Clinic,C,Asset,jinteki,Economy,2.0
+Project Junebug,C,Asset,jinteki,Trap,4.0
+Moon Pool,C,Asset,jinteki,Engine,1.0
+Bladderwort,C,Asset,jinteki,Economy,4.0
+Snare!,N,Asset,jinteki,Trap,4.0
+Shock!,N,Asset,jinteki,Trap,4.0
+Sundew,N,Asset,jinteki,Economy,5.0
+Ronin,N,Asset,jinteki,Engine,1.0
+Reaper Function,N,Asset,jinteki,Engine,1.0
+Shi.Kyu,N,Asset,jinteki,Trap,3.0
+Hostile Infrastructure,R,Asset,jinteki,Engine,
+Yagura,C,Ice,jinteki,CodeGate,3.0
+Ivik,C,Ice,jinteki,Barrier,3.0
+Himitsu-Bako,C,Ice,jinteki,Barrier,3.0
+Pup,C,Ice,jinteki,Sentry,5.0
+Aiki,C,Ice,jinteki,CodeGate,2.0
+Cortex Lock,N,Ice,jinteki,Sentry,2.0
+Crick,N,Ice,jinteki,CodeGate,3.0
+Komainu,N,Ice,jinteki,Sentry,2.0
+Thimblerig,N,Ice,jinteki,CodeGate,3.0
+Vampyronassa,N,Ice,jinteki,CodeGate,1.0
+Swordsman,N,Ice,jinteki,Tech,1.0
+Chum,N,Ice,jinteki,CodeGate,
+Saisentan,N,Ice,jinteki,Sentry,2.0
+Engram Flush,R,Ice,jinteki,CodeGate,1.0
+Anansi,R,Ice,jinteki,Sentry,
+Chiyashi,R,Ice,jinteki,Barrier,1.0
+Susanoo-no-Mikoto,R,Ice,jinteki,Sentry,
+Medical Research Fundraiser,C,Operation,jinteki,Economy,4.0
+Hansei Review,C,Operation,jinteki,Economy,2.0
+Neural EMP,N,Operation,jinteki,Engine,2.0
+Neurospike,N,Operation,jinteki,Engine,1.0
+Trick of Light,N,Operation,jinteki,Engine,2.0
+Celebrity Gift,N,Operation,jinteki,Economy,1.0
+Simulation Reset,R,Operation,jinteki,Engine,
+Mushin No Shin,R,Operation,jinteki,Engine,
+Shipment from Tennin,R,Operation,jinteki,Engine,1.0
+Akitaro Watanabe,C,Upgrade,jinteki,Economy,2.0
+Mavirus,C,Upgrade,jinteki,Tech,
+Bio Vault,C,Upgrade,jinteki,Engine,
+Code Replicator,N,Upgrade,jinteki,Engine,
+La Costa Grid,N,Upgrade,jinteki,Engine,1.0
+Anoetic Void,N,Upgrade,jinteki,Engine,3.0
+Ben Musashi,N,Upgrade,jinteki,Engine,1.0
+Caprice Nisei,R,Upgrade,jinteki,Engine,3.0
+Remastered Edition,C,Agenda,nbn,Agenda,3.0
+Artificial Cryptocrash,C,Agenda,nbn,Agenda,5.0
+Explode-a-palooza,C,Agenda,nbn,Agenda,6.0
+Project Beale,C,Agenda,nbn,Agenda,5.0
+AR-Enhanced Security,N,Agenda,nbn,Agenda,
+Degree Mill,N,Agenda,nbn,Agenda,1.0
+Breaking News,N,Agenda,nbn,Agenda,2.0
+Freedom of Information,N,Agenda,nbn,Agenda,
+Quantum Predictive Model,N,Agenda,nbn,Agenda,6.0
+Tomorrow’s Headline,R,Agenda,nbn,Agenda,1.0
+AstroScript Pilot Program,R,Agenda,nbn,Agenda,
+Bellona,R,Agenda,nbn,Agenda,
+Marked Accounts,C,Asset,nbn,Economy,2.0
+Daily Quest,C,Asset,nbn,Economy,7.0
+Spin Doctor,C,Asset,nbn,Economy,5.0
+Jackson Howard,C,Asset,nbn,Economy,3.0
+Tiered Subscription,C,Asset,nbn,Economy,3.0
+Daily Business Show,C,Asset,nbn,Economy,2.0
+Ubiquitous Vig,N,Asset,nbn,Economy,
+Aryabhata Tech,N,Asset,nbn,Economy,
+Vera Ivanovna Shuyskaya,N,Asset,nbn,Engine,3.0
+Amani Senai,N,Asset,nbn,Engine,1.0
+Reversed Accounts,N,Asset,nbn,Engine,2.0
+Gaslight,N,Asset,nbn,Engine,1.0
+Sensie Actors Union,R,Asset,nbn,Economy,
+Drago Ivanov,R,Asset,nbn,Engine,
+Echo Chamber,R,Asset,nbn,Engine,
+SIU,R,Asset,nbn,Engine,
+Resistor,C,Ice,nbn,Barrier,
+Vasilisa,C,Ice,nbn,Sentry,2.0
+TLDR,C,Ice,nbn,CodeGate,1.0
+Tollbooth,C,Ice,nbn,CodeGate,6.0
+Pop-up Window,C,Ice,nbn,Economy,2.0
+IP Block,N,Ice,nbn,Barrier,1.0
+Data Raven,N,Ice,nbn,CodeGate,1.0
+Ping,N,Ice,nbn,Barrier,3.0
+Data Ward,N,Ice,nbn,Barrier,1.0
+Turnpike,N,Ice,nbn,Sentry,
+Slot Machine,R,Ice,nbn,CodeGate,
+Gold Farmer,R,Ice,nbn,Barrier,
+Universal Connectivity Fee,R,Ice,nbn,Mythic,1.0
+Mestnichestvo,R,Ice,nbn,CodeGate,1.0
+Shipment from SanSan,C,Operation,nbn,Engine,2.0
+Predictive Planogram,C,Operation,nbn,Economy,5.0
+SEA Source,N,Operation,nbn,Engine,1.0
+Hard-Hitting News,N,Operation,nbn,Engine,1.0
+Sweeps Week,N,Operation,nbn,Economy,1.0
+Shipment from Vladisibirsk,N,Operation,nbn,Engine,3.0
+Exchange of Information,R,Operation,nbn,Engine,
+Attitude Adjustment,R,Operation,nbn,Economy,
+Market Forces,R,Operation,nbn,Economy,
+AMAZE Amusements,N,Upgrade,nbn,Engine,4.0
+Calibration Testing,N,Upgrade,nbn,Engine,
+SanSan City Grid,N,Upgrade,nbn,Engine,1.0
+Keegan Lane,R,Upgrade,nbn,Engine,
+Arella Salvatore,R,Upgrade,nbn,Engine,2.0
+Ganked!,R,Upgrade,nbn,Engine,
+Vladisibirsk City Grid,R,Upgrade,nbn,Engine,
+Global Food Initiative,C,Agenda,Neutral,Agenda,4.0
+Send a Message,C,Agenda,Neutral,Agenda,7.0
+Corporate Sales Team,C,Agenda,Neutral,Agenda,
+Show of Force,N,Agenda,Neutral,Win Condition,
+False Lead,N,Agenda,Neutral,Win Condition,2.0
+Gila hand Archology,N,Agenda,Neutral,Economy,4.0
+Merger,N,Agenda,Neutral,Agenda,1.0
+NAPD Contract,R,Agenda,Neutral,Agenda,1.0
+Cyberdex Sandbox,R,Agenda,Neutral,Agenda,1.0
+Offworld Office,R,Agenda,Neutral,Agenda,
+SSL Endorsement,R,Agenda,Neutral,Agenda,
+CSR Campaign,C,Asset,Neutral,Economy,5.0
+Tech Startup,N,Asset,Neutral,Engine,1.0
+Lady Liberty,R,Asset,Neutral,Engine,
+Sandburg,R,Asset,Neutral,Engine,
+Museum of History,R,Asset,Neutral,Engine,1.0
+Owl,C,Ice,Neutral,Sentry,3.0
+Rainbow,C,Ice,Neutral,Multi,2.0
+Quicksand,C,Ice,Neutral,Barrier,4.0
+Datapike,C,Ice,Neutral,CodeGate,4.0
+Paper Wall,C,Ice,Neutral,Barrier,5.0
+Bastion,C,Ice,Neutral,Barrier,4.0
+Palisade,C,Ice,Neutral,Barrier,2.0
+Assassin,C,Ice,Neutral,Sentry,3.0
+Whitespace,C,Ice,Neutral,CodeGate,8.0
+Rime,N,Ice,Neutral,Mythic,
+Lancelot,N,Ice,Neutral,Sentry,2.0
+Grim,N,Ice,Neutral,Sentry,
+Chimera,N,Ice,Neutral,Mythic,1.0
+Merlin,N,Ice,Neutral,CodeGate,
+Galahad,N,Ice,Neutral,Barrier,3.0
+Tithe,N,Ice,Neutral,Sentry,1.0
+Cobra,N,Ice,Neutral,Sentry,2.0
+Macrophage,N,Ice,Neutral,Tech,
+Enigma,N,Ice,Neutral,CodeGate,3.0
+Guard,R,Ice,Neutral,Sentry,1.0
+Quandary,R,Ice,Neutral,CodeGate,1.0
+Mother Goddess,R,Ice,Neutral,Mythic,1.0
+Exalibur,R,Ice,Neutral,Mythic,
+Vanilla,R,Ice,Neutral,Barrier,1.0
+Hedge Fund,C,Operation,Neutral,Economy,6.0
+Melange Mining Corp,C,Operation,Neutral,Economy,1.0
+PAD Campaign,C,Operation,Neutral,Economy,3.0
+Regolith Mining License,C,Operation,Neutral,Economy,5.0
+Mumba Temple,C,Operation,Neutral,Economy,1.0
+Subliminal Messaging,N,Operation,Neutral,Economy,3.0
+Restructure,N,Operation,Neutral,Economy,
+IPO,N,Operation,Neutral,Economy,1.0
+Launch Campaign,N,Operation,Neutral,Economy,1.0
+Best Defense,N,Operation,Neutral,Tech,2.0
+NGO Front,R,Operation,Neutral,Economy,
+Rashida Jaheem,R,Operation,Neutral,Economy,
+NASX,R,Operation,Neutral,Economy,1.0
+Prisec,N,Upgrade,Neutral,Engine,
+Mumbad Virtual Tour,N,Upgrade,Neutral,Engine,5.0
+Cyberdex Virus Suite,N,Upgrade,Neutral,Tech,2.0
+Breaker Bay Grid,N,Upgrade,Neutral,Engine,2.0
+High-Risk Investment,C,Agenda,weyland,Agenda,8.0
+Geothermal Fracking,C,Agenda,weyland,Agenda,2.0
+Armed Intimidation,C,Agenda,weyland,Agenda,3.0
+Oaktown Renovation,C,Agenda,weyland,Agenda,1.0
+Project Atlas,N,Agenda,weyland,Agenda,3.0
+Hostile Takeover,N,Agenda,weyland,Agenda,4.0
+Regulatory Capture,N,Agenda,weyland,Agenda,1.0
+Azef Protocol,N,Agenda,weyland,Agenda,1.0
+SDS Drown Deployment,N,Agenda,weyland,Agenda,4.0
+Government Takeover,R,Agenda,weyland,Agenda,1.0
+City Works Project,R,Agenda,weyland,Agenda,
+Above the Law,R,Agenda,weyland,Agenda,1.0
+Baliff,C,Ice,weyland,Barrier,5.0
+Fire Wall,C,Ice,weyland,Barrier,
+Veritas,C,Ice,weyland,Sentry,1.0
+Wormhole,C,Ice,weyland,CodeGate,4.0
+Border Control,N,Ice,weyland,Barrier,1.0
+Spiderweb,N,Ice,weyland,Barrier,2.0
+Tour Guide,N,Ice,weyland,Sentry,1.0
+Afshar,N,Ice,weyland,CodeGate,3.0
+Surveyor,N,Ice,weyland,Sentry,2.0
+Akhet,R,Ice,weyland,Barrier,1.0
+Mausolus,R,Ice,weyland,CodeGate,
+Archer,R,Ice,weyland,Sentry,
+The Root,N,Asset,weyland,Economy,1.0
+Superdeep Borehole,N,Asset,weyland,Engine,
+Capital Investors,C,Asset,weyland,Economy,5.0
+Indian Union Stock Exchange,C,Asset,weyland,Economy,4.0
+Contract Killer,N,Asset,weyland,Engine,1.0
+Drudge Work,C,Asset,weyland,Economy,1.0
+Clearinghouse,N,Asset,weyland,Engine,1.0
+Svyatogor Excavator,R,Asset,weyland,Economy,1.0
+Executive Boot Camp,N,Asset,weyland,Engine,1.0
+Urban Renewal,N,Asset,weyland,Engine,2.0
+Wall to Wall,N,Asset,weyland,Economy,2.0
+Zealous Judge,R,Asset,weyland,Engine,2.0
+Reconstruction Contract,R,Asset,weyland,Engine,
+Commercial Bankers Group,N,Asset,weyland,Economy,2.0
+Amazon Industrial Zone,N,Upgrade,weyland,Economy,3.0
+The Twins,N,Upgrade,weyland,Economy,1.0
+Off the Grid,R,Upgrade,weyland,Engine,
+Malapert Data Vault,C,Upgrade,weyland,Engine,3.0
+Oberth Protocol,R,Upgrade,weyland,Engine,1.0
+Cayambe Grid,R,Upgrade,weyland,Engine,2.0
+Crisium Grid,N,Upgrade,weyland,Tech,
+Beanstalk Royalties,C,Operation,weyland,Economy,4.0
+Extract,N,Operation,weyland,Economy,1.0
+Mutually Assured Destruction,R,Operation,weyland,Engine,1.0
+Too Big to Fail,R,Operation,weyland,Economy,1.0
+Dedication Ceremony,N,Operation,weyland,Engine,1.0
+Economic Warfare,N,Operation,weyland,Engine,2.0
+Punitive Counterstrike,N,Operation,weyland,Engine,
+Consulting Visit,R,Operation,weyland,Engine,
+End of the Line,C,Operation,weyland,Engine,3.0
+Audacity,N,Operation,weyland,Engine,3.0
+High-Profile Target,R,Operation,weyland,Engine,
+BOOM!,R,Operation,weyland,Engine,
+Scorched Earth,N,Operation,weyland,Engine,2.0
+Hedge Fund,C,Operation,Neutral,Economy,6.0

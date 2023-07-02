@@ -1,0 +1,727 @@
+,index,pack_code,title,count,decklists,type_code,is_nsg
+0,1962,sg,Hedge Fund,953,321,operation,True
+1,1940,sg,Spin Doctor,921,323,asset,True
+2,1472,tdatd,Rashida Jaheem,470,164,asset,False
+3,1927,sg,Seamless Launch,354,133,operation,True
+4,1840,ur,Bellona,315,112,agenda,True
+5,1954,sg,Offworld Office,269,109,agenda,True
+6,1943,sg,Predictive Planogram,238,92,operation,True
+7,1958,sg,Regolith Mining License,230,97,asset,True
+8,1956,sg,Send a Message,224,87,agenda,True
+9,1431,dtwn,NGO Front,215,89,asset,False
+10,2006,su21,Marilyn Campaign,205,80,asset,True
+11,2008,su21,Magnet,177,93,ice,True
+12,1925,sg,Ansel 1.0,174,82,ice,True
+13,2018,su21,Snare!,174,71,asset,True
+14,1929,sg,Manegarm Skunkworks,165,83,upgrade,True
+15,792,dad,Global Food Initiative,163,72,agenda,False
+16,1763,df,Red Level Clearance,163,61,operation,True
+17,1827,ur,Drafter,159,76,ice,True
+18,1868,mor,Border Control,158,66,ice,False
+19,2045,su21,Enigma,157,80,ice,True
+20,1942,sg,Ping,153,68,ice,True
+21,2026,su21,Project Beale,149,58,agenda,True
+22,1842,ur,Gold Farmer,143,53,ice,True
+23,1941,sg,Funhouse,140,58,ice,True
+24,2104,ms,Drago Ivanov,138,64,asset,True
+25,2106,ms,Mestnichestvo,138,57,ice,True
+26,1951,sg,Government Subsidy,136,57,operation,True
+27,1924,sg,Nico Campaign,135,50,asset,True
+28,1029,ml,IP Block,135,55,ice,False
+29,1831,ur,Tranquility Home Grid,135,49,upgrade,True
+30,951,23s,Hard-Hitting News,128,58,operation,False
+31,2109,ms,Vladisibirsk City Grid,128,55,upgrade,True
+32,2037,su21,Project Atlas,128,46,agenda,True
+33,2005,su21,Project Vitruvius,126,48,agenda,True
+34,1926,sg,Brân 1.0,126,55,ice,True
+35,2035,su21,Hostile Takeover,125,51,agenda,True
+36,2027,su21,Daily Business Show,119,52,asset,True
+37,1959,sg,Palisade,117,57,ice,True
+38,1856,ur,NAPD Cordon,117,45,operation,True
+39,2046,su21,Subliminal Messaging,116,72,operation,True
+40,2100,ms,Mavirus,116,81,upgrade,True
+41,2096,ms,Anemone,116,51,ice,True
+42,2030,su21,Tollbooth,116,62,ice,True
+43,2107,ms,Vasilisa,115,52,ice,True
+44,1849,ur,Akhet,114,47,ice,True
+45,1932,sg,Urtica Cipher,114,57,asset,True
+46,1935,sg,Hansei Review,111,46,operation,True
+47,784,dad,Turnpike,108,53,ice,False
+48,1784,df,Afshar,105,56,ice,True
+49,2041,su21,Ice Wall,103,47,ice,True
+50,2094,ms,Bladderwort,99,37,asset,True
+51,2012,su21,Biotic Labor,97,48,operation,True
+52,1113,eas,Audacity,97,58,operation,False
+53,1937,sg,Anoetic Void,96,54,upgrade,True
+54,984,es,Fairchild 3.0,96,45,ice,False
+55,1829,ur,NEXT Activation Command,95,43,operation,True
+56,993,es,BOOM!,95,49,operation,False
+57,2099,ms,Mitosis,91,38,operation,True
+58,1961,sg,Whitespace,90,42,ice,True
+59,1928,sg,Sprint,90,44,operation,True
+60,2044,su21,PAD Campaign,89,36,asset,True
+61,1782,df,SDS Drone Deployment,89,34,agenda,True
+62,2015,su21,House of Knives,89,30,agenda,True
+63,2084,ms,Élivágar Bifurcation,88,37,agenda,True
+64,1125,baw,Obokata Protocol,88,34,agenda,False
+65,1923,sg,Luminal Transubstantiation,87,87,agenda,True
+66,2102,ms,Artificial Cryptocrash,84,34,agenda,True
+67,1952,sg,Retribution,84,49,operation,True
+68,1823,ur,Project Vacheron,82,31,agenda,True
+69,1939,sg,Tomorrow's Headline,81,81,agenda,True
+70,1767,df,Sting!,81,27,agenda,True
+71,1032,ml,Mausolus,80,34,ice,False
+72,1848,ur,Wall to Wall,79,35,asset,True
+73,2116,ms,Extract,79,27,operation,True
+74,1860,urbp,Megaprix Qualifier,78,26,agenda,True
+75,2029,su21,Pop-up Window,77,37,ice,True
+76,1408,ss,Self-Growth Program,76,32,operation,False
+77,2111,ms,Azef Protocol,75,29,agenda,True
+78,2007,su21,Eli 1.0,75,32,ice,True
+79,1957,sg,Superconducting Hub,74,35,agenda,True
+80,1466,tdatd,Endless EULA,74,38,ice,False
+81,2009,su21,Ravana 1.0,73,29,ice,True
+82,1443,cotc,Anansi,72,32,ice,False
+83,2105,ms,Ubiquitous Vig,72,28,asset,True
+84,1841,ur,F2P,72,35,ice,True
+85,1834,ur,Engram Flush,71,32,ice,True
+86,2042,su21,Punitive Counterstrike,71,28,operation,True
+87,1774,df,Daily Quest,71,26,asset,True
+88,118,core,Hedge Fund,70,24,operation,False
+89,2011,su21,Archived Memories,70,34,operation,True
+90,1541,rar,Gatekeeper,69,30,ice,False
+91,1948,sg,Clearinghouse,68,39,asset,True
+92,1960,sg,Tithe,68,30,ice,True
+93,2092,ms,Blood in the Water,66,26,agenda,True
+94,1568,rar,Too Big to Fail,64,25,operation,False
+95,2113,ms,Envelopment,64,27,ice,True
+96,1773,df,Remastered Edition,63,23,agenda,True
+97,2091,ms,Big Deal,62,41,operation,True
+98,2033,su21,SanSan City Grid,62,32,upgrade,True
+99,1947,sg,Above the Law,61,61,agenda,True
+100,1509,ka,Market Forces,59,25,operation,False
+101,1761,df,Hagen,58,29,ice,True
+102,2022,su21,Trick of Light,57,28,operation,True
+103,1762,df,Fully Operational,57,23,operation,True
+104,1855,ur,False Lead,57,26,agenda,True
+105,2028,su21,Reversed Accounts,55,34,asset,True
+106,2043,su21,Crisium Grid,54,44,upgrade,True
+107,1428,dtwn,Economic Warfare,54,21,operation,False
+108,1447,cotc,Degree Mill,54,20,agenda,False
+109,1950,sg,Pharos,53,28,ice,True
+110,1828,ur,Týr,53,36,ice,True
+111,1770,df,Saisentan,52,27,ice,True
+112,1566,rar,Formicary,52,20,ice,False
+113,2108,ms,Backroom Machinations,51,42,operation,True
+114,1861,urbp,La Costa Grid,49,27,upgrade,True
+115,2032,su21,Psychographics,49,31,operation,True
+116,2016,su21,Nisei MK II,49,19,agenda,True
+117,1955,sg,Orbital Superiority,49,22,agenda,True
+118,1491,win,Masvingo,48,22,ice,False
+119,1933,sg,Diviner,47,25,ice,True
+120,2040,su21,Hortum,47,25,ice,True
+121,1854,ur,Cyberdex Sandbox,47,19,agenda,True
+122,1944,sg,Public Trail,47,24,operation,True
+123,1333,core2,Green Level Clearance,46,16,operation,False
+124,2095,ms,Moon Pool,45,21,asset,True
+125,2036,su21,Oaktown Renovation,44,17,agenda,True
+126,1936,sg,Neurospike,44,22,operation,True
+127,1825,ur,Cerebral Overwriter,44,26,asset,True
+128,2039,su21,Archer,41,24,ice,True
+129,2093,ms,Regenesis,37,17,agenda,True
+130,988,es,DNA Tracker,37,21,ice,False
+131,1789,df,Vulnerability Audit,37,21,agenda,True
+132,1760,df,Nanoetching Matrix,36,15,asset,True
+133,1851,ur,Winchester,36,22,ice,True
+134,1775,df,Tiered Subscription,36,14,asset,True
+135,311,om,Jackson Howard,36,14,asset,False
+136,1845,ur,Ganked!,35,15,upgrade,True
+137,1931,sg,Longevity Serum,35,35,agenda,True
+138,2103,ms,Chekist Scion,34,15,asset,True
+139,2017,su21,Ronin,34,19,asset,True
+140,1539,rar,Hyperloop Extension,33,13,agenda,False
+141,775,dad,News Team,33,13,asset,False
+142,1411,ss,Wake Up Call,33,19,operation,False
+143,1558,rar,Hydra,32,19,ice,False
+144,1402,ss,Ikawah Project,32,13,agenda,False
+145,1560,rar,Attitude Adjustment,31,17,operation,False
+146,1470,tdatd,City Works Project,31,11,agenda,False
+147,2112,ms,Svyatogor Excavator,31,11,asset,True
+148,1464,tdatd,Bio Vault,31,15,upgrade,False
+149,793,dad,Launch Campaign,31,11,asset,False
+150,1425,dtwn,Bacterial Programming,30,12,agenda,False
+151,1850,ur,Colossus,30,17,ice,True
+152,1785,df,Sandstone,30,21,ice,True
+153,975,bm,Prisec,30,11,upgrade,False
+154,1949,sg,Ballista,29,14,ice,True
+155,1551,rar,Thimblerig,29,17,ice,False
+156,2090,ms,Wave,29,12,ice,True
+157,2021,su21,Celebrity Gift,29,12,operation,True
+158,1010,in,Data Ward,28,10,ice,False
+159,90,core,Breaking News,28,12,agenda,False
+160,1013,in,Bulwark,28,13,ice,False
+161,1934,sg,Karunā,28,12,ice,True
+162,2097,ms,Bathynomus,28,17,ice,True
+163,2098,ms,Ivik,27,14,ice,True
+164,2115,ms,Stavka,27,13,ice,True
+165,1170,cd,AR-Enhanced Security,27,10,agenda,False
+166,1824,ur,Bass CH1R180G4,26,12,asset,True
+167,1758,df,Architect Deployment Test,26,13,agenda,True
+168,2089,ms,Hákarl 1.0,25,13,ice,True
+169,773,dad,Quantum Predictive Model,24,9,agenda,False
+170,97,core,Matrix Analyzer,24,12,ice,False
+171,1468,tdatd,Amani Senai,24,14,asset,False
+172,63,core,Accelerated Beta Test,24,9,agenda,False
+173,1863,urbp,Cayambe Grid,24,8,upgrade,True
+174,2087,ms,Trieste Model Bioroids,23,10,asset,True
+175,1953,sg,Malapert Data Vault,23,16,upgrade,True
+176,1715,sc19,Beanstalk Royalties,23,10,operation,False
+177,1404,ss,Gene Splicer,23,12,asset,False
+178,119,core,Enigma,21,10,ice,False
+179,1945,sg,AMAZE Amusements,21,11,upgrade,True
+180,782,dad,Special Offer,21,10,ice,False
+181,1047,qu,Chiyashi,21,14,ice,False
+182,1167,cd,Restore,21,12,operation,False
+183,1766,df,Project Yagi-Uda,20,8,agenda,True
+184,139,wla,Project Atlas,20,7,agenda,False
+185,117,core,PAD Campaign,20,8,asset,False
+186,1837,ur,Kakurenbo,19,12,operation,True
+187,64,core,Adonis Campaign,19,7,asset,False
+188,985,es,Ark Lockdown,19,15,operation,False
+189,1153,fm,Tithonium,19,11,ice,False
+190,1166,cd,MCA Austerity Policy,19,8,asset,False
+191,1150,fm,Data Loop,19,10,ice,False
+192,1576,mo,Border Control,19,8,ice,False
+193,781,dad,Resistor,19,7,ice,False
+194,1053,qu,NASX,19,13,asset,False
+195,1832,ur,Flower Sermon,19,7,agenda,True
+196,2031,su21,Wraparound,19,10,ice,True
+197,966,bm,Fairchild 2.0,19,9,ice,False
+198,114,core,Priority Requisition,18,6,agenda,False
+199,2010,su21,Rototurret,18,11,ice,True
+200,236,fp,Project Beale,18,6,agenda,False
+201,1545,rar,Giordano Memorial Field,18,8,upgrade,False
+202,1786,df,Trebuchet,18,9,ice,True
+203,111,core,Ice Wall,18,8,ice,False
+204,372,tc,Sweeps Week,18,6,operation,False
+205,1724,sc19,Wall of Static,18,7,ice,False
+206,336,st,Restructure,18,6,operation,False
+207,770,dad,15 Minutes,18,18,agenda,False
+208,1852,ur,Argus Crackdown,17,8,operation,True
+209,67,core,Biotic Labor,17,8,operation,False
+210,1791,df,Rime,17,9,ice,True
+211,1430,dtwn,SSL Endorsement,17,7,agenda,False
+212,1542,rar,Divert Power,17,8,operation,False
+213,70,core,Ichi 1.0,17,6,ice,False
+214,967,bm,Aiki,17,11,ice,False
+215,1759,df,Calvin B4L3Y,17,9,asset,True
+216,1410,ss,Urban Renewal,17,7,asset,False
+217,1833,ur,Prāna Condenser,17,9,asset,True
+218,69,core,Heimdall 1.0,17,6,ice,False
+219,1835,ur,Konjin,16,11,ice,True
+220,532,uao,Architect,16,7,ice,False
+221,2053,msbp,Azef Protocol,16,6,agenda,True
+222,102,core,Hostile Takeover,16,7,agenda,False
+223,2114,ms,Maskirovka,16,11,ice,True
+224,2025,su21,License Acquisition,15,6,agenda,True
+225,1124,baw,Loki,15,13,ice,False
+226,1483,win,Remote Enforcement,15,7,agenda,False
+227,430,hap,Medical Research Fundraiser,15,5,operation,False
+228,115,core,Private Security Force,15,6,agenda,False
+229,1777,df,Loot Box,15,7,ice,True
+230,1423,dtwn,Jinja City Grid,15,6,upgrade,False
+231,2088,ms,Echo,14,6,ice,True
+232,83,core,Chum,14,6,ice,False
+233,121,core,Wall of Static,14,6,ice,False
+234,2117,ms,Mutually Assured Destruction,14,6,operation,True
+235,1776,df,Congratulations!,14,6,ice,True
+236,1132,baw,Standoff,13,5,agenda,False
+237,1406,ss,Genotyping,13,6,operation,False
+238,618,oac,Cyberdex Virus Suite,13,7,upgrade,False
+239,954,23s,Stock Buy-Back,13,6,operation,False
+240,1564,rar,Drudge Work,13,9,asset,False
+241,1561,rar,Arella Salvatore,13,5,upgrade,False
+242,1343,core2,GRNDL Refinery,13,6,asset,False
+243,74,core,Experiential Data,13,6,upgrade,False
+244,1862,urbp,Digital Rights Management,12,9,operation,True
+245,1844,ur,SYNC Rerouting,12,6,operation,True
+246,1073,dc,Oberth Protocol,12,4,upgrade,False
+247,231,fp,Eli 1.0,12,4,ice,False
+248,1033,ml,Sapper,12,10,ice,False
+249,177,ce,Pop-up Window,12,5,ice,False
+250,1350,core2,Beanstalk Royalties,12,4,operation,False
+251,1540,rar,Meridian,12,5,ice,False
+252,987,es,Project Kusanagi,12,4,agenda,False
+253,109,core,Archer,12,6,ice,False
+254,1822,ur,Megaprix Qualifier,12,4,agenda,True
+255,237,fp,Midseason Replacements,12,5,operation,False
+256,415,dt,NAPD Contract,12,4,agenda,False
+257,1168,cd,Breached Dome,11,4,asset,False
+258,1511,ka,High-Profile Target,11,5,operation,False
+259,96,core,Data Raven,11,4,ice,False
+260,113,core,Research Station,11,5,upgrade,False
+261,848,bf,Advanced Assembly Lines,11,4,asset,False
+262,871,dag,Bio-Ethics Association,11,4,asset,False
+263,78,core,Snare!,11,4,asset,False
+264,213,hs,Eve Campaign,11,5,asset,False
+265,2023,su21,Hokusai Grid,11,4,upgrade,True
+266,2085,ms,Midnight-3 Arcology,11,4,agenda,True
+267,1507,ka,Mlinzi,11,4,ice,False
+268,89,core,AstroScript Pilot Program,11,11,agenda,False
+269,71,core,Viktor 1.0,11,5,ice,False
+270,756,uot,Team Sponsorship,11,5,asset,False
+271,100,core,SanSan City Grid,11,5,upgrade,False
+272,1208,td,Marilyn Campaign,11,5,asset,False
+273,888,si,Jeeves Model Bioroids,10,4,asset,False
+274,666,val,Tech Startup,10,5,asset,False
+275,916,tlm,Vanilla,10,6,ice,False
+276,1790,df,CSR Campaign,10,5,asset,True
+277,1665,sc19,Fetal AI,10,4,agenda,False
+278,439,hap,Plan B,10,4,asset,False
+279,423,hap,The Future Perfect,10,4,agenda,False
+280,2051,msbp,Anemone,10,4,ice,True
+281,2086,ms,Refuge Campaign,10,5,asset,True
+282,924,ftm,Magnet,10,5,ice,False
+283,1027,ml,Mind Game,10,5,ice,False
+284,1510,ka,Surveyor,10,7,ice,False
+285,1426,dtwn,Jua,9,6,ice,False
+286,1565,rar,Blockchain,9,3,ice,False
+287,1882,sm,Sweeps Week,9,3,operation,False
+288,1691,sc19,Data Raven,9,5,ice,False
+289,98,core,Tollbooth,9,5,ice,False
+290,1051,qu,Veritas,9,8,ice,False
+291,1487,win,Envelope,9,4,ice,False
+292,258,cac,Ichi 2.0,9,4,ice,False
+293,2118,ms,Trust Operation,9,5,operation,True
+294,250,cac,Cerebral Overwriter,9,6,asset,False
+295,1386,core2,Private Security Force,9,7,agenda,False
+296,1385,core2,Priority Requisition,9,3,agenda,False
+297,1352,core2,Shipment from Kaguya,9,4,operation,False
+298,970,bm,Special Report,9,4,operation,False
+299,1387,core2,Melange Mining Corp.,9,4,asset,False
+300,1711,sc19,Hadrian's Wall,9,3,ice,False
+301,72,core,Rototurret,9,4,ice,False
+302,246,cac,Efficiency Committee,9,3,agenda,False
+303,481,up,Mother Goddess,9,4,ice,False
+304,1886,sm,Excalibur,9,4,ice,False
+305,1225,td,Hortum,8,4,ice,False
+306,1570,rar,Lady Liberty,8,8,asset,False
+307,557,atr,Daily Business Show,8,3,asset,False
+308,1488,win,Mwanza City Grid,8,3,upgrade,False
+309,1504,ka,NEXT Diamond,8,3,ice,False
+310,2019,su21,Lotus Field,8,4,ice,True
+311,1442,cotc,NEXT Sapphire,8,3,ice,False
+312,1129,baw,Reeducation,8,3,agenda,False
+313,1461,tdatd,Malia Z0L0K4,8,6,asset,False
+314,1451,cotc,Trojan Horse,8,4,operation,False
+315,87,core,Akitaro Watanabe,8,4,upgrade,False
+316,410,dt,Caprice Nisei,8,4,upgrade,False
+317,1838,ur,La Costa Grid,8,4,upgrade,True
+318,1660,sc19,Blue Level Clearance,8,3,operation,False
+319,66,core,Archived Memories,8,4,operation,False
+320,1174,cd,Fractal Threat Matrix,8,4,upgrade,False
+321,1650,sc19,Aggressive Secretary,8,7,asset,False
+322,1696,sc19,Closed Accounts,8,6,operation,False
+323,132,wla,Mandatory Upgrades,8,3,agenda,False
+324,1685,sc19,Explode-a-palooza,8,4,agenda,False
+325,1689,sc19,Marked Accounts,8,3,asset,False
+326,1550,rar,Otoroshi,8,3,ice,False
+327,1700,sc19,Red Herrings,8,5,upgrade,False
+328,1543,rar,Fast Break,8,5,operation,False
+329,1780,df,Increased Drop Rates,8,4,upgrade,True
+330,1173,cd,Priority Construction,7,3,operation,False
+331,779,dad,Archangel,7,6,ice,False
+332,790,dad,Keegan Lane,7,3,upgrade,False
+333,1505,ka,Riot Suppression,7,3,operation,False
+334,1826,ur,Vaporframe Fabricator,7,4,asset,True
+335,1471,tdatd,Oduduwa,7,5,ice,False
+336,1680,sc19,Neural EMP,7,3,operation,False
+337,256,cac,Heimdall 2.0,7,3,ice,False
+338,680,bb,Crick,7,5,ice,False
+339,1014,in,Best Defense,7,7,operation,False
+340,1030,ml,Thoth,7,4,ice,False
+341,154,ta,Trick of Light,7,3,operation,False
+342,1853,ur,Cayambe Grid,7,3,upgrade,True
+343,1035,ml,Enforced Curfew,7,3,operation,False
+344,537,uao,Reversed Accounts,7,4,asset,False
+345,172,ce,Project Vitruvius,7,3,agenda,False
+346,1349,core2,Shadow,7,4,ice,False
+347,1207,td,Estelle Moon,7,3,asset,False
+348,915,tlm,Consulting Visit,7,5,operation,False
+349,948,23s,Chrysalis,7,4,ice,False
+350,1688,sc19,Ghost Branch,7,4,asset,False
+351,159,ta,Amazon Industrial Zone,7,4,upgrade,False
+352,392,fal,Wraparound,7,4,ice,False
+353,254,cac,Bioroid Efficiency Research,7,3,operation,False
+354,68,core,Shipment from MirrorMorph,7,4,operation,False
+355,391,fal,Market Research,7,3,agenda,False
+356,326,st,Wotan,7,5,ice,False
+357,840,kg,Museum of History,7,3,asset,False
+358,116,core,Melange Mining Corp.,7,4,asset,False
+359,1115,eas,Owl,7,6,ice,False
+360,2020,su21,Swordsman,6,5,ice,True
+361,1463,tdatd,Tempus,6,2,upgrade,False
+362,1649,sc19,Adonis Campaign,6,3,asset,False
+363,1563,rar,Broad Daylight,6,2,agenda,False
+364,195,asis,Uroboros,6,4,ice,False
+365,1787,df,Secure and Protect,6,3,operation,True
+366,1788,df,Reduced Service,6,4,upgrade,True
+367,91,core,Anonymous Tip,6,3,operation,False
+368,562,atr,Merlin,6,2,ice,False
+369,433,hap,Komainu,6,3,ice,False
+370,1721,sc19,PAD Campaign,6,2,asset,False
+371,330,st,Shipment from SanSan,6,3,operation,False
+372,134,wla,Ash 2X3ZB9CY,6,2,upgrade,False
+373,106,core,Beanstalk Royalties,6,2,operation,False
+374,92,core,Closed Accounts,6,4,operation,False
+375,911,tlm,Puppet Master,6,3,agenda,False
+376,874,dag,Sensie Actors Union,6,3,asset,False
+377,150,ta,Encryption Protocol,6,2,asset,False
+378,1165,cd,CFC Excavation Contract,6,2,agenda,False
+379,786,dad,Ad Blitz,6,3,operation,False
+380,1693,sc19,Pop-up Window,6,2,ice,False
+381,420,hap,House of Knives,6,2,agenda,False
+382,1089,so,CPC Generator,6,2,asset,False
+383,426,hap,Psychic Field,6,2,asset,False
+384,1127,baw,Shipment from Tennin,6,3,operation,False
+385,897,si,Mumbad Virtual Tour,6,4,upgrade,False
+386,1668,sc19,Project Junebug,6,3,asset,False
+387,1064,dc,NEXT Wave 2,6,2,agenda,False
+388,522,fc,Lancelot,6,2,ice,False
+389,482,up,Galahad,6,2,ice,False
+390,554,atr,Hostile Infrastructure,6,2,asset,False
+391,495,tsb,Encrypted Portals,6,2,agenda,False
+392,369,tc,Shock!,6,2,asset,False
+393,1111,eas,Henry Phillips,6,4,upgrade,False
+394,178,ce,Woodcutter,6,3,ice,False
+395,1371,core2,TGTBT,6,2,agenda,False
+396,373,tc,RSVP,6,3,ice,False
+397,1024,ml,Fairchild,6,5,ice,False
+398,1661,sc19,Ash 2X3ZB9CY,6,3,upgrade,False
+399,220,hs,Simone Diego,6,3,upgrade,False
+400,82,core,Cell Portal,6,4,ice,False
+401,1347,core2,Hive,6,3,ice,False
+402,137,wla,Restructured Datapool,6,3,agenda,False
+403,764,uot,Tour Guide,6,2,ice,False
+404,1054,qu,Macrophage,5,5,ice,False
+405,2052,msbp,Vladisibirsk City Grid,5,3,upgrade,True
+406,1783,df,Roughneck Repair Squad,5,4,asset,True
+407,660,val,Cortex Lock,5,4,ice,False
+408,875,dag,Commercial Bankers Group,5,4,asset,False
+409,1674,sc19,Neural Katana,5,2,ice,False
+410,1340,core2,The Cleaners,5,3,agenda,False
+411,839,kg,Mumba Temple,5,3,asset,False
+412,519,fc,Crisium Grid,5,4,upgrade,False
+413,1779,df,Game Over,5,4,operation,True
+414,1449,cotc,Armed Intimidation,5,3,agenda,False
+415,396,fal,Subliminal Messaging,5,3,operation,False
+416,581,ts,Utopia Fragment,5,5,agenda,False
+417,913,tlm,Exchange of Information,5,4,operation,False
+418,1068,dc,Kakugo,5,2,ice,False
+419,1034,ml,Show of Force,5,2,agenda,False
+420,1046,qu,Violet Level Clearance,5,3,operation,False
+421,512,fc,IQ,5,2,ice,False
+422,1667,sc19,Philotic Entanglement,5,5,agenda,False
+423,679,bb,Turing,5,2,ice,False
+424,93,core,Psychographics,5,4,operation,False
+425,686,bb,Breaker Bay Grid,5,2,upgrade,False
+426,425,hap,Mental Health Clinic,5,2,asset,False
+427,742,oh,Casting Call,5,2,operation,False
+428,1555,rar,Fly on the Wall,5,2,agenda,False
+429,180,ce,Private Contracts,5,4,asset,False
+430,1328,core2,Ichi 1.0,5,2,ice,False
+431,1552,rar,Hangeki,5,3,operation,False
+432,1409,ss,Calibration Testing,5,3,upgrade,False
+433,556,atr,License Acquisition,5,2,agenda,False
+434,794,dad,Assassin,5,3,ice,False
+435,1232,td,IPO,5,3,operation,False
+436,389,fal,Yagura,5,2,ice,False
+437,838,kg,Dedication Ceremony,5,2,operation,False
+438,552,atr,Bifrost Array,5,3,agenda,False
+439,499,tsb,Paywall Implementation,4,2,operation,False
+440,261,cac,Zed 1.0,4,2,ice,False
+441,191,asis,Green Level Clearance,4,2,operation,False
+442,1223,td,Colossus,4,2,ice,False
+443,1084,so,Seidr Adaptive Barrier,4,2,ice,False
+444,577,ts,Turtlebacks,4,2,asset,False
+445,108,core,Shipment from Kaguya,4,2,operation,False
+446,1462,tdatd,Kill Switch,4,2,operation,False
+447,1432,dtwn,Distract the Masses,4,2,operation,False
+448,1015,in,Preemptive Action,4,2,operation,False
+449,84,core,Data Mine,4,2,ice,False
+450,761,uot,Product Placement,4,2,upgrade,False
+451,95,core,Ghost Branch,4,2,asset,False
+452,219,hs,Salvage,4,2,ice,False
+453,704,cc,Oaktown Renovation,4,2,agenda,False
+454,1544,rar,Game Changer,4,2,operation,False
+455,1379,core2,Closed Accounts,4,2,operation,False
+456,1092,so,Clyde Van Rite,4,2,asset,False
+457,474,up,Lotus Field,4,2,ice,False
+458,221,hs,Foxfire,4,3,operation,False
+459,578,ts,Shoot the Moon,4,2,operation,False
+460,1205,td,Elective Upgrade,4,2,agenda,False
+461,682,bb,Blacklist,4,2,asset,False
+462,1508,ka,Better Citizen Program,4,2,agenda,False
+463,925,ftm,Lateral Growth,4,2,operation,False
+464,1764,df,Cold Site Server,4,3,upgrade,True
+465,870,dag,Clone Suffrage Movement,4,2,asset,False
+466,120,core,Hunter,4,2,ice,False
+467,1698,sc19,SEA Source,4,2,operation,False
+468,107,core,Scorched Earth,4,2,operation,False
+469,1213,td,Ultraviolet Clearance,4,3,operation,False
+470,218,hs,Bernice Mai,4,3,upgrade,False
+471,1025,ml,Friends in High Places,4,2,operation,False
+472,1105,eas,NEXT Opal,4,2,ice,False
+473,264,cac,Gila Hands Arcology,4,2,agenda,False
+474,1114,eas,Red Planet Couriers,4,4,operation,False
+475,1697,sc19,Psychographics,3,1,operation,False
+476,772,dad,Rebranding Team,3,1,agenda,False
+477,1699,sc19,Product Placement,3,1,upgrade,False
+478,1725,sc19,Hedge Fund,3,1,operation,False
+479,873,dag,"""Clones are not People""",3,2,operation,False
+480,1110,eas,Authenticator,3,1,ice,False
+481,1348,core2,Ice Wall,3,1,ice,False
+482,858,bf,Corporate Sales Team,3,1,agenda,False
+483,740,oh,Explode-a-palooza,3,1,agenda,False
+484,1686,sc19,Project Beale,3,1,agenda,False
+485,65,core,Aggressive Secretary,3,2,asset,False
+486,968,bm,Enforcing Loyalty,3,2,operation,False
+487,335,st,Profiteering,3,1,agenda,False
+488,908,tlm,Ravana 1.0,3,1,ice,False
+489,1512,ka,False Flag,3,1,asset,False
+490,1355,core2,Nisei MK II,3,1,agenda,False
+491,876,dag,Mumbad City Hall,3,1,asset,False
+492,1847,ur,Transport Monopoly,3,3,agenda,True
+493,1324,core2,Adonis Campaign,3,1,asset,False
+494,1330,core2,Viktor 1.0,3,1,ice,False
+495,367,tc,Fenris,3,1,ice,False
+496,263,cac,Tyr's Hand,3,1,upgrade,False
+497,1656,sc19,Turing,3,1,ice,False
+498,1547,rar,Jumon,3,2,agenda,False
+499,656,val,Brain-Taping Warehouse,3,1,asset,False
+500,1781,df,Divested Trust,3,1,agenda,True
+501,741,oh,Early Premiere,3,1,asset,False
+502,1714,sc19,Spiderweb,3,1,ice,False
+503,755,uot,Cybernetics Court,3,2,asset,False
+504,371,tc,TGTBT,3,1,agenda,False
+505,766,uot,The Future is Now,3,1,agenda,False
+506,1492,win,Overseer Matrix,3,2,upgrade,False
+507,140,wla,Caduceus,3,1,ice,False
+508,443,hap,Fast Track,3,2,operation,False
+509,1322,core2,Project Ares,3,1,agenda,False
+510,434,hap,Pup,3,1,ice,False
+511,683,bb,Gutenberg,3,3,ice,False
+512,950,23s,Watchdog,3,2,asset,False
+513,1676,sc19,Tsurugi,3,2,ice,False
+514,1450,cotc,Death and Taxes,3,2,operation,False
+515,542,uao,Hades Fragment,3,3,agenda,False
+516,722,uw,Pachinko,3,1,ice,False
+517,661,val,Valley Grid,3,2,upgrade,False
+518,1867,mor,Slot Machine,3,1,ice,False
+519,173,ce,Viper,3,2,ice,False
+520,932,ftm,Zealous Judge,3,1,asset,False
+521,135,wla,Braintrust,3,1,agenda,False
+522,81,core,Precognition,3,2,operation,False
+523,174,ce,Edge of World,3,2,asset,False
+524,192,asis,Hourglass,3,2,ice,False
+525,181,ce,Chimera,3,2,ice,False
+526,534,uao,Labyrinthine Servers,3,1,agenda,False
+527,245,cac,Director Haas' Pet Project,3,3,agenda,False
+528,422,hap,Philotic Entanglement,3,3,agenda,False
+529,1128,baw,Escalate Vitriol,3,2,agenda,False
+530,1448,cotc,Personalized Portal,3,1,asset,False
+531,1880,sm,Hostile Infrastructure,3,1,asset,False
+532,1364,core2,Yagura,3,1,ice,False
+533,1147,fm,Mandatory Seed Replacement,3,1,agenda,False
+534,1486,win,Viral Weaponization,3,1,agenda,False
+535,926,ftm,Improved Protein Source,3,1,agenda,False
+536,1881,sm,Turtlebacks,3,1,asset,False
+537,852,bf,Pālanā Agroplex,3,1,asset,False
+538,1412,ss,Reconstruction Contract,3,1,asset,False
+539,160,ta,Executive Retreat,3,2,agenda,False
+540,473,up,NEXT Silver,3,1,ice,False
+541,307,om,NEXT Bronze,3,1,ice,False
+542,493,tsb,Enhanced Login Protocol,3,2,operation,False
+543,1484,win,Kamali 1.0,3,1,ice,False
+544,832,kg,Advanced Concept Hopper,3,1,agenda,False
+545,582,ts,Excalibur,3,2,ice,False
+546,1334,core2,Shipment from MirrorMorph,3,1,operation,False
+547,1210,td,Executive Functioning,3,1,ice,False
+548,1392,core2,Hedge Fund,3,1,operation,False
+549,1726,sc19,IPO,3,1,operation,False
+550,2013,su21,Corporate Troubleshooter,3,2,upgrade,True
+551,1422,dtwn,Nightdancer,3,1,ice,False
+552,706,cc,Quicksand,3,2,ice,False
+553,685,bb,Meru Mati,2,1,ice,False
+554,416,dt,Quandary,2,1,ice,False
+555,472,up,Domestic Sleepers,2,2,agenda,False
+556,386,fal,Blue Level Clearance,2,1,operation,False
+557,1378,core2,Anonymous Tip,2,2,operation,False
+558,2038,su21,Corporate Town,2,1,asset,True
+559,763,uot,Public Support,2,1,asset,False
+560,603,oac,Asteroid Belt,2,1,ice,False
+561,440,hap,Guard,2,1,ice,False
+562,387,fal,Strongbox,2,1,upgrade,False
+563,697,cc,Self-Destruct Chips,2,1,agenda,False
+564,759,uot,Genetics Pavilion,2,2,asset,False
+565,153,ta,Fetal AI,2,1,agenda,False
+566,1677,sc19,Wall of Thorns,2,1,ice,False
+567,538,uao,Universal Connectivity Fee,2,1,ice,False
+568,1557,rar,Peeping Tom,2,1,ice,False
+569,233,fp,Ronin,2,1,asset,False
+570,1391,core2,Wall of Static,2,1,ice,False
+571,1885,sm,Scorched Earth,2,1,operation,False
+572,500,tsb,Sealed Vault,2,1,asset,False
+573,1654,sc19,Ichi 1.0,2,1,ice,False
+574,253,cac,Thomas Haas,2,1,asset,False
+575,1681,sc19,Trick of Light,2,1,operation,False
+576,1670,sc19,Snare!,2,1,asset,False
+577,1669,sc19,Ronin,2,1,asset,False
+578,1452,cotc,TechnoCo,2,2,asset,False
+579,1405,ss,Mganga,2,1,ice,False
+580,158,ta,Power Grid Overload,2,1,operation,False
+581,138,wla,TMI,2,1,ice,False
+582,986,es,Hellion Beta Test,2,1,operation,False
+583,1086,so,Load Testing,2,1,operation,False
+584,1548,rar,API-S Keeper Isobel,2,1,asset,False
+585,498,tsb,Information Overload,2,2,ice,False
+586,477,up,Primary Transmission Dish,2,1,asset,False
+587,375,tc,Punitive Counterstrike,2,1,operation,False
+588,927,ftm,Voter Intimidation,2,1,operation,False
+589,247,cac,Project Wotan,2,1,agenda,False
+590,760,uot,Franchise City,2,1,asset,False
+591,1088,so,Replanting,2,1,operation,False
+592,859,bf,PAD Factory,2,1,asset,False
+593,930,ftm,Ibrahim Salem,2,1,asset,False
+594,1090,so,Free Lunch,2,1,ice,False
+595,1694,sc19,Tollbooth,2,1,ice,False
+596,1695,sc19,Wraparound,2,1,ice,False
+597,1389,core2,Enigma,2,1,ice,False
+598,1342,core2,Elizabeth Mills,2,2,asset,False
+599,853,bf,Harvester,2,1,ice,False
+600,1206,td,Successful Field Test,2,1,agenda,False
+601,1326,core2,Heimdall 1.0,2,1,ice,False
+602,1335,core2,Ash 2X3ZB9CY,2,1,upgrade,False
+603,1341,core2,Dedicated Response Team,2,2,asset,False
+604,1169,cd,Sand Storm,2,2,ice,False
+605,1559,rar,Eavesdrop,2,1,operation,False
+606,249,cac,Alix T4LB07,2,1,asset,False
+607,1067,dc,Synth DNA Modification,2,1,asset,False
+608,1553,rar,Daruma,2,1,upgrade,False
+609,895,si,Cobra,2,2,ice,False
+610,1427,dtwn,Threat Assessment,2,1,operation,False
+611,1388,core2,PAD Campaign,2,1,asset,False
+612,1772,df,Letheia Nisei,2,2,upgrade,True
+613,1123,baw,Warroid Tracker,2,2,upgrade,False
+614,1768,df,Public Health Portal,2,1,asset,True
+615,1778,df,Focus Group,2,2,operation,True
+616,1567,rar,Building Blocks,2,1,operation,False
+617,234,fp,Midori,2,1,upgrade,False
+618,1214,td,Black Level Clearance,2,1,upgrade,False
+619,698,cc,Lab Dog,2,1,ice,False
+620,574,ts,IT Department,2,1,asset,False
+621,1843,ur,Digital Rights Management,2,2,operation,True
+622,1230,td,Long-Term Investment,2,1,asset,False
+623,1323,core2,Project Vitruvius,2,1,agenda,False
+624,356,mt,Interns,2,1,operation,False
+625,252,cac,Haas Arcology AI,2,1,asset,False
+626,657,val,NEXT Gold,2,1,ice,False
+627,1106,eas,Bioroid Work Crew,2,1,asset,False
+628,155,ta,Sensei,2,1,ice,False
+629,1836,ur,Hyoubu Precog Manifold,2,2,operation,True
+630,1723,sc19,Hunter,2,1,ice,False
+631,1145,fm,O₂ Shortage,2,1,operation,False
+632,94,core,SEA Source,2,1,operation,False
+633,80,core,Neural EMP,2,1,operation,False
+634,579,ts,Troll,2,2,ice,False
+635,77,core,Project Junebug,2,1,asset,False
+636,260,cac,Viktor 2.0,2,2,ice,False
+637,1465,tdatd,Sadaka,2,2,ice,False
+638,157,ta,ChiLo City Grid,2,2,upgrade,False
+639,308,om,Celebrity Gift,2,1,operation,False
+640,791,dad,Rutherford Grid,2,1,upgrade,False
+641,1407,ss,Echo Chamber,2,2,asset,False
+642,176,ce,Marked Accounts,2,1,asset,False
+643,151,ta,Sherlock 1.0,2,1,ice,False
+644,1109,eas,Ben Musashi,2,1,upgrade,False
+645,156,ta,Big Brother,2,1,operation,False
+646,1769,df,Storgotic Resonator,2,2,asset,True
+647,1050,qu,Herald,2,1,ice,False
+648,196,asis,Net Police,2,1,asset,False
+649,1575,mo,Slot Machine,2,1,ice,False
+650,354,mt,Power Shutdown,2,1,operation,False
+651,605,oac,Nebula,1,1,ice,False
+652,1325,core2,Aggressive Secretary,1,1,asset,False
+653,855,bf,Disposable HQ,1,1,upgrade,False
+654,1351,core2,Punitive Counterstrike,1,1,operation,False
+655,1048,qu,Psychokinesis,1,1,operation,False
+656,1720,sc19,Priority Requisition,1,1,agenda,False
+657,1356,core2,Project Junebug,1,1,asset,False
+658,1403,ss,Najja 1.0,1,1,ice,False
+659,1884,sm,Executive Boot Camp,1,1,asset,False
+660,1011,in,Drone Screen,1,1,upgrade,False
+661,1049,qu,Net Quarantine,1,1,agenda,False
+662,891,si,Aryabhata Tech,1,1,asset,False
+663,600,oac,Mark Yale,1,1,asset,False
+664,516,fc,The News Now Hour,1,1,asset,False
+665,1383,core2,Bernice Mai,1,1,upgrade,False
+666,1055,qu,Tribunal,1,1,ice,False
+667,736,oh,It's a Trap!,1,1,ice,False
+668,1126,baw,Mirāju,1,1,ice,False
+669,1384,core2,False Lead,1,1,agenda,False
+670,161,ta,Freelancer,1,1,operation,False
+671,1444,cotc,Code Replicator,1,1,upgrade,False
+672,76,core,Nisei MK II,1,1,agenda,False
+673,734,oh,Ronald Five,1,1,asset,False
+674,1026,ml,Manta Grid,1,1,upgrade,False
+675,370,tc,Tsurugi,1,1,ice,False
+676,1675,sc19,Swordsman,1,1,ice,False
+677,1578,mo,Hired Help,1,1,upgrade,False
+678,1209,td,Eli 2.0,1,1,ice,False
+679,1572,mo,Embolus,1,1,upgrade,False
+680,720,uw,Marcus Batty,1,1,upgrade,False
+681,703,cc,Little Engine,1,1,ice,False
+682,1771,df,Complete Image,1,1,operation,True
+683,1869,mor,Timely Public Release,1,1,agenda,False
+684,664,val,Capital Investors,1,1,asset,False
+685,662,val,Bandwidth,1,1,ice,False
+686,659,val,Genetic Resequencing,1,1,agenda,False
+687,613,oac,Traffic Accident,1,1,operation,False
+688,604,oac,Wormhole,1,1,ice,False
+689,573,ts,Errand Boy,1,1,ice,False
+690,540,uao,Changeling,1,1,ice,False
+691,99,core,Red Herrings,1,1,upgrade,False
+692,436,hap,Susanoo-no-Mikoto,1,1,ice,False
+693,216,hs,Hokusai Grid,1,1,upgrade,False
+694,432,hap,Inazuma,1,1,ice,False
+695,267,cac,Bastion,1,1,ice,False
+696,413,dt,Hive,1,1,ice,False
+697,316,om,Grim,1,1,ice,False
+698,329,st,Swordsman,1,1,ice,False
+699,374,tc,Curtain Wall,1,1,ice,False
+700,1489,win,Standard Procedure,1,1,operation,False
+701,1052,qu,Bryan Stinson,1,1,upgrade,False
+702,1229,td,Honeyfarm,1,1,asset,False
+703,995,es,Scarcity of Resources,1,1,operation,False
+704,105,core,Aggressive Negotiation,1,1,operation,False
+705,1678,sc19,Yagura,1,1,ice,False
+706,424,hap,Chairman Hiro,1,1,asset,False
+707,395,fal,GRNDL Refinery,1,1,asset,False
+708,1065,dc,Zed 2.0,1,1,ice,False
+709,558,atr,Superior Cyberwalls,1,1,agenda,False
+710,1682,sc19,Hokusai Grid,1,1,upgrade,False
+711,837,kg,Interrupt 0,1,1,ice,False
+712,914,tlm,Red Tape,1,1,ice,False
+713,1087,so,Bloom,1,1,ice,False
+714,1687,sc19,Daily Business Show,1,1,asset,False
+715,777,dad,Victoria Jenkins,1,1,asset,False
+716,1175,cd,Conundrum,1,1,ice,False
+717,442,hap,Diversified Portfolio,1,1,operation,False
+718,788,dad,The All-Seeing I,1,1,operation,False
+719,133,wla,Janus 1.0,1,1,ice,False
+720,517,fc,Manhunt,1,1,operation,False
+721,559,atr,Executive Boot Camp,1,1,asset,False
+722,907,tlm,Brainstorm,1,1,ice,False
+723,946,23s,Sherlock 2.0,1,1,ice,False
+724,955,23s,Sandburg,1,1,asset,False
+725,1112,eas,Battlement,1,1,ice,False

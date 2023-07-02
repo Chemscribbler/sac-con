@@ -1,0 +1,381 @@
+Card,Rarity,Type,Faction,Function
+Successful Field Test,C,Agenda,haas-bioroid,AssetSpam
+Elective Upgrade,C,Agenda,haas-bioroid,FA
+Project Vitruvius,C,Agenda,haas-bioroid,FA
+Megaprix Qualifier,C,Agenda,haas-bioroid,FA
+Architect Deployment Test,C,Agenda,haas-bioroid,Glacier
+Remote Enforcement,C,Agenda,haas-bioroid,Glacier
+Haas Arcology AI ,C,Asset,haas-bioroid,Advancable
+Team Sponsorship,C,Asset,haas-bioroid,AssetSpam
+Encryption Protocol ,C,Asset,haas-bioroid,AssetSpam
+Calvin B4L3Y,C,Asset,haas-bioroid,Economy
+Nico Campaign,C,Asset,haas-bioroid,Economy
+Nanoetching Matrix ,C,Asset,haas-bioroid,Economy
+Eli 1.0,C,Ice,haas-bioroid,Barrier
+Seidr Adaptive Barrier,C,Ice,haas-bioroid,Barrier
+Hakarl 1.0,C,Ice,haas-bioroid,Barrier
+Magnet,C,Ice,haas-bioroid,CodeGate
+Turing,C,Ice,haas-bioroid,CodeGate
+Fairchild 1.0,C,Ice,haas-bioroid,CodeGate
+Echo,C,Ice,haas-bioroid,Harmonic
+Pulse,C,Ice,haas-bioroid,Harmonic
+Wave,C,Ice,haas-bioroid,Harmonic
+Ichi 1.0,C,Ice,haas-bioroid,Sentry
+Successful Demonstration,C,Operation,haas-bioroid,Economy
+Green Level Clearance,C,Operation,haas-bioroid,Economy
+Lateral Growth,C,Operation,haas-bioroid,Economy
+Biotic Labor,C,Operation,haas-bioroid,FA
+Sprint,C,Operation,haas-bioroid,Fixing
+Seamless Launch,C,Operation,haas-bioroid,Glacier
+Tranquility Home Grid,C,Upgrade,haas-bioroid,Economy
+Cold Site Server,C,Upgrade,haas-bioroid,Glacier
+Efficiency Committee,N,Agenda,haas-bioroid,Combo
+Ontological Dependence,N,Agenda,haas-bioroid,CoreDamage
+Elivagar Bifurcation,N,Agenda,haas-bioroid,FA
+Ikawah Project,N,Agenda,haas-bioroid,Goodstuff
+Hyperloop Extension,N,Agenda,haas-bioroid,Sports
+Advanced Assembly Lines,N,Asset,haas-bioroid,AssetSpam
+Jeeves Model Bioroids,N,Asset,haas-bioroid,AssetSpam
+Cybernetics Court,N,Asset,haas-bioroid,Combo
+Bass CH1R180G4,N,Asset,haas-bioroid,FA
+Domestic Sleepers,N,FakeAgenda,haas-bioroid,Goodstuff
+Bran 1.0,N,Ice,haas-bioroid,Barrier
+Gatekeeper,N,Ice,haas-bioroid,CodeGate
+Bloop,N,Ice,haas-bioroid,Harmonic
+Ansel 1.0,N,Ice,haas-bioroid,Sentry
+Rototurret,N,Ice,haas-bioroid,Sentry
+Meridian,N,Ice,haas-bioroid,Sports
+Shipment from MirrorMorph,N,Operation,haas-bioroid,Combo
+Red Level Clearance,N,Operation,haas-bioroid,Combo
+Reclamation Order,N,Operation,haas-bioroid,Combo
+Divert Power,N,Operation,haas-bioroid,Combo
+Accelerated Diagnostics ,N,Operation,haas-bioroid,Combo
+Blue Level Clearance,N,Operation,haas-bioroid,Economy
+Fully Operational,N,Operation,haas-bioroid,Economy
+Ultraviolet Clearance,N,Operation,haas-bioroid,Economy
+Fast Break,N,Operation,haas-bioroid,FA
+NEXT Activation Command,N,Operation,haas-bioroid,Glacier
+Mr. Hendrik,N,Upgrade,haas-bioroid,CoreDamage
+Djupstad Grid,N,Upgrade,haas-bioroid,CoreDamage
+Manegarm Skunkworks,N,Upgrade,haas-bioroid,Glacier
+Ash 2X3ZB9CY,N,Upgrade,haas-bioroid,Glacier
+Project Vacheron,R,Agenda,haas-bioroid,Goodstuff
+Luminal Transubstantiation,R,Agenda,haas-bioroid,Goodstuff
+Accelerated Beta Test,R,Agenda,haas-bioroid,Goodstuff
+Lakshmi Smartfabrics,R,Asset,haas-bioroid,AssetSpam
+Estelle Moon,R,Asset,haas-bioroid,AssetSpam
+Clone Suffrage Movement ,R,Asset,haas-bioroid,AssetSpam
+Nightmare Archive,R,Asset,haas-bioroid,CoreDamage
+MCA Austerity Policy,R,Asset,haas-bioroid,Glacier
+Fairchild 3.0,R,Ice,haas-bioroid,CodeGate
+Loki,R,Ice,haas-bioroid,Mythic
+Architect,R,Ice,haas-bioroid,Sentry
+Drafter,R,Ice,haas-bioroid,Sentry
+Friends in High Places,R,Operation,haas-bioroid,AssetSpam
+Big Deal,R,Operation,haas-bioroid,BigEcon
+Archived Memories,R,Operation,haas-bioroid,Combo
+Violet Level Clearance,R,Operation,haas-bioroid,Economy
+Game Changer,R,Operation,haas-bioroid,Sports
+Warroid Tracker,R,Upgrade,haas-bioroid,AssetSpam
+Jinja City Grid,R,Upgrade,haas-bioroid,Glacier
+Giordano Memorial Field,R,Upgrade,haas-bioroid,Sports
+Medical Breakthrough,C,Agenda,jinteki,FA
+Nisei MK II,C,Agenda,jinteki,Glacier
+Labyrinthine Servers,C,Agenda,jinteki,Glacier
+Flower Sermon,C,Agenda,jinteki,Goodstuff
+Fetal AI,C,Agenda,jinteki,NetGrinder
+House of Knives,C,Agenda,jinteki,NetGrinder
+Turtlebacks,C,Asset,jinteki,AssetSpam
+Mental Health Clinic,C,Asset,jinteki,AssetSpam
+Political Dealings,C,Asset,jinteki,AssetSpam
+Sundew,C,Asset,jinteki,Economy
+Moon Pool,C,Asset,jinteki,Fixing
+Bladderwort,C,Asset,jinteki,NetGrinder
+Project Junebug,C,Asset,jinteki,Trap
+Snare!,C,Asset,jinteki,Trap
+Ivik,C,Ice,jinteki,Barrier
+Himitsu-Bako,C,Ice,jinteki,Barrier
+Yagura,C,Ice,jinteki,CodeGate
+Aiki,C,Ice,jinteki,CodeGate
+Lotus Field,C,Ice,jinteki,CodeGate
+Pup,C,Ice,jinteki,Sentry
+Anemone ,C,Ice,jinteki,Sentry
+Tsurugi,C,Ice,jinteki,Sentry
+Komainu,C,Ice,jinteki,Sentry
+Medical Research Fundraiser,C,Operation,jinteki,Economy
+Hansei Review,C,Operation,jinteki,Economy
+Celebrity Gift,C,Operation,jinteki,Economy
+Trick of Light,C,Operation,jinteki,FA
+Akitaro Watanabe,C,Upgrade,jinteki,Economy
+Bio Vault,C,Upgrade,jinteki,Glacier
+Mavirus,C,Upgrade,jinteki,Tech
+Regenesis,N,Agenda,jinteki,Glacier
+Project Yagi-Uda,N,Agenda,jinteki,Goodstuff
+Blood in the Water,N,Agenda,jinteki,Goodstuff
+The Future Perfect,N,Agenda,jinteki,Goodstuff
+Jumon,N,Agenda,jinteki,Shellgame
+Ronin,N,Asset,jinteki,Combo
+Reaper Function,N,Asset,jinteki,Combo
+Shock!,N,Asset,jinteki,IG
+Prana Condenser,N,Asset,jinteki,NetGrinder
+Bio-Ethics Association ,N,Asset,jinteki,NetGrinder
+API-S Keeper Isobel,N,Asset,jinteki,Shellgame
+Project Junebug ,N,Asset,jinteki,Shellgame
+Sting! ,N,FakeAgenda,jinteki,NetGrinder
+Ashigaru,N,Ice,jinteki,Barrier
+Crick,N,Ice,jinteki,CodeGate
+Thimblerig,N,Ice,jinteki,CodeGate
+Vampyronassa,N,Ice,jinteki,CodeGate
+Konjin,N,Ice,jinteki,Mythic
+Saisentan,N,Ice,jinteki,Sentry
+Swordsman,N,Ice,jinteki,Tech
+Neurospike,N,Operation,jinteki,Combo
+Hasty Relocation,N,Operation,jinteki,Combo
+Genotyping ,N,Operation,jinteki,Fixing
+Neural EMP,N,Operation,jinteki,NetGrinder
+Tori Hanzo,N,Upgrade,jinteki,CoreDamage
+Code Replicator,N,Upgrade,jinteki,Glacier
+La Costa Grid,N,Upgrade,jinteki,Glacier
+Anoetic Void,N,Upgrade,jinteki,Glacier
+Georgia Emelyov,N,Upgrade,jinteki,NetGrinder
+Hokusai Grid ,N,Upgrade,jinteki,NetGrinder
+Obokata Protocol,R,Agenda,jinteki,Goodstuff
+Philotic Entanglement,R,Agenda,jinteki,Goodstuff
+Bacterial Programming,R,Agenda,jinteki,Goodstuff
+Hostile Infrastructure,R,Asset,jinteki,AssetSpam
+Shi.Kyu,R,Asset,jinteki,FakePoints
+Genetics Pavilion,R,Asset,jinteki,IG
+Breached Dome,R,Asset,jinteki,IG
+Psychic Field ,R,Asset,jinteki,Shellgame
+Chiyashi,R,Ice,jinteki,Barrier
+Engram Flush,R,Ice,jinteki,CodeGate
+DNA Tracker ,R,Ice,jinteki,CodeGate
+Cortex Lock,R,Ice,jinteki,Sentry
+Anansi,R,Ice,jinteki,Sentry
+Susanoo-no-Mikoto,R,Ice,jinteki,Sentry
+Shipment from Tennin,R,Operation,jinteki,FA
+Simulation Reset,R,Operation,jinteki,Fixing
+Mushin No Shin,R,Operation,jinteki,Shellgame
+Mitosis,R,Operation,jinteki,Shellgame
+Caprice Nisei,R,Upgrade,jinteki,Glacier
+Mwanza City Grid,R,Upgrade,jinteki,NetGrinder
+AR-Enhanced Security,C,Agenda,nbn,AssetSpam
+Reeducation,C,Agenda,nbn,Combo
+Remastered Edition,C,Agenda,nbn,FA
+Project Beale,C,Agenda,nbn,FA
+Artificial Cryptocrash,C,Agenda,nbn,Goodstuff
+Market Research,C,Agenda,nbn,TagPayoff
+Marked Accounts,C,Asset,nbn,AssetSpam
+Tiered Subscription,C,Asset,nbn,AssetSpam
+CPC Generator ,C,Asset,nbn,AssetSpam
+Spin Doctor,C,Asset,nbn,Fixing
+Jackson Howard,C,Asset,nbn,Fixing
+Daily Business Show,C,Asset,nbn,Fixing
+Daily Quest,C,Asset,nbn,Glacier
+Resistor,C,Ice,nbn,Barrier
+Tollbooth,C,Ice,nbn,CodeGate
+Gutenberg,C,Ice,nbn,CodeGate
+Little Engine,C,Ice,nbn,CodeGate
+RSVP,C,Ice,nbn,CodeGate
+Pop-up Window,C,Ice,nbn,Economy
+Vasilisa,C,Ice,nbn,Sentry
+Unsmiling Tsarevna,C,Ice,nbn,Sentry
+Troll,C,Ice,nbn,TagGen
+Funhouse,C,Ice,nbn,TagStorm
+Predictive Planogram,C,Operation,nbn,Economy
+Shipment from SanSan,C,Operation,nbn,FA
+Public Trail,C,Operation,nbn,TagGen
+SEA Source,C,Operation,nbn,TagNBag
+Product Placement,C,Upgrade,nbn,Economy
+SanSan City Grid,C,Upgrade,nbn,FA
+Midway Station Grid ,C,Upgrade,nbn,Glacier
+Explode-a-palooza,N,Agenda,nbn,Economy
+Degree Mill,N,Agenda,nbn,Goodstuff
+Breaking News,N,Agenda,nbn,TagNBag
+Freedom of Information,N,Agenda,nbn,TagPayoff
+Quantum Predictive Model,N,Agenda,nbn,TagPayoff
+Vera Ivanovna Shuyskaya,N,Asset,nbn,AssetSpam
+Amani Senai,N,Asset,nbn,AssetSpam
+News Team,N,Asset,nbn,FakePoints
+Gaslight,N,Asset,nbn,Goodstuff
+SIU,N,Asset,nbn,TagGen
+Aryabhata Tech,N,Asset,nbn,Tracing
+Ubiquitous Vig,N,Asset,nbn,Trap
+Reversed Accounts,N,Asset,nbn,Trap
+IP Block,N,Ice,nbn,Barrier
+Ping,N,Ice,nbn,Barrier
+Data Ward,N,Ice,nbn,Barrier
+Data Raven,N,Ice,nbn,CodeGate
+Mestnichestvo,N,Ice,nbn,CodeGate
+Data Loop,N,Ice,nbn,NetGrinder
+Turnpike,N,Ice,nbn,Sentry
+Hydra,N,Ice,nbn,Sentry
+Sweeps Week,N,Operation,nbn,Economy
+Attitude Adjustment,N,Operation,nbn,Fixing
+Hard-Hitting News,N,Operation,nbn,TagGen
+Psychographics,N,Operation,nbn,TagPayoff
+Backroom Machinations ,N,Operation,nbn,TagPayoff
+Shipment from Vladisibirsk,N,Operation,nbn,TagStorm
+Calibration Testing,N,Upgrade,nbn,FA
+Bernice Mai,N,Upgrade,nbn,TagGen
+AMAZE Amusements,N,Upgrade,nbn,TagStorm
+AstroScript Pilot Program,R,Agenda,nbn,FA
+Bellona,R,Agenda,nbn,Goodstuff
+Tomorrow's Headline ,R,Agenda,nbn,TagGen
+Sensie Actors Union,R,Asset,nbn,AssetSpam
+Echo Chamber,R,Asset,nbn,Glacier
+Drago Ivanov,R,Asset,nbn,TagGen
+Gold Farmer,R,Ice,nbn,Barrier
+Endless EULA,R,Ice,nbn,Barrier
+Slot Machine,R,Ice,nbn,CodeGate
+Universal Connectivity Fee,R,Ice,nbn,Mythic
+Thoth,R,Ice,nbn,Sentry
+The All-Seeing I,R,Operation,nbn,TagPayoff
+Closed Account,R,Operation,nbn,TagPayoff
+Exchange of Information,R,Operation,nbn,TagStorm
+Market Forces,R,Operation,nbn,TagStorm
+Midseason Replacements,R,Operation,nbn,TagStorm
+Arella Salvatore,R,Upgrade,nbn,FA
+Vladisibirsk City Grid,R,Upgrade,nbn,FA
+Keegan Lane,R,Upgrade,nbn,Glacier
+Ganked!,R,Upgrade,nbn,Glacier
+Corporate Sales Team,C,Agenda,Neutral,Economy
+Send a Message,C,Agenda,Neutral,Glacier
+Global Food Initiative,C,Agenda,Neutral,Goodstuff
+CSR Campaign,C,Asset,Neutral,AssetSpam
+Quicksand,C,Ice,Neutral,Barrier
+Paper Wall,C,Ice,Neutral,Barrier
+Bastion,C,Ice,Neutral,Barrier
+Palisade,C,Ice,Neutral,Barrier
+Datapike,C,Ice,Neutral,CodeGate
+Whitespace,C,Ice,Neutral,CodeGate
+Galahad,C,Ice,Neutral,Grail
+Rainbow,C,Ice,Neutral,Multi
+Owl,C,Ice,Neutral,Sentry
+Assassin,C,Ice,Neutral,Sentry
+Grim,C,Ice,Neutral,Sentry
+Tithe,C,Ice,Neutral,Sentry
+PAD Campaign,C,Operation,Neutral,AssetSpam
+Mumba Temple,C,Operation,Neutral,AssetSpam
+Launch Campaign,C,Operation,Neutral,AssetSpam
+Hedge Fund,C,Operation,Neutral,Economy
+Hedge Fund,C,Operation,Neutral,Economy
+Subliminal Messaging,C,Operation,Neutral,Economy
+Melange Mining Corp,C,Operation,Neutral,Glacier
+Regolith Mining License,C,Operation,Neutral,Glacier
+NAPD Cordon,C,Operation,Neutral,Glacier
+Cyberdex Sandbox,N,Agenda,Neutral,Economy
+Merger,N,Agenda,Neutral,FA
+False Lead,N,Agenda,Neutral,TagNBag
+Tech Startup,N,Asset,Neutral,AssetSpam
+Enigma,N,Ice,Neutral,CodeGate
+Lancelot,N,Ice,Neutral,Grail
+Merlin,N,Ice,Neutral,Grail
+Rime,N,Ice,Neutral,Mythic
+Chimera,N,Ice,Neutral,Mythic
+Cobra,N,Ice,Neutral,Sentry
+Macrophage,N,Ice,Neutral,Tech
+Fast Track,N,Operation,Neutral,Combo
+Restructure,N,Operation,Neutral,Economy
+IPO,N,Operation,Neutral,Economy
+Preemptive Action,N,Operation,Neutral,Fixing
+Best Defense,N,Operation,Neutral,Tech
+Mumbad Virtual Tour,N,Upgrade,Neutral,AssetSpam
+Breaker Bay Grid,N,Upgrade,Neutral,Combo
+Prisec,N,Upgrade,Neutral,TagNBag
+Cyberdex Virus Suite,N,Upgrade,Neutral,Tech
+Offworld Office,R,Agenda,Neutral,Economy
+SSL Endorsement,R,Agenda,Neutral,Economy
+NAPD Contract,R,Agenda,Neutral,Goodstuff
+Lady Liberty,R,Asset,Neutral,AssetSpam
+Museum of History,R,Asset,Neutral,AssetSpam
+Sandburg,R,Asset,Neutral,BigEcon
+Vanilla,R,Ice,Neutral,Barrier
+Quandary,R,Ice,Neutral,CodeGate
+Mother Goddess,R,Ice,Neutral,Mythic
+Exalibur,R,Ice,Neutral,Mythic
+Guard,R,Ice,Neutral,Sentry
+Mass Commercialization,R,Operation,Neutral,Advancable
+NGO Front,R,Operation,Neutral,Economy
+Rashida Jaheem,R,Operation,Neutral,Economy
+NASX,R,Operation,Neutral,Economy
+Geothermal Fracking,C,Agenda,weyland,BadPub
+Armed Intimidation,C,Agenda,weyland,BadPub
+High-Risk Investment,C,Agenda,weyland,Economy
+Oaktown Renovation,C,Agenda,weyland,Economy
+Urban Renewal,C,Asset,weyland,AssetSpam
+Capital Investors,C,Asset,weyland,Economy
+Indian Union Stock Exchange,C,Asset,weyland,Economy
+The Root,C,Asset,weyland,Economy
+Drudge Work,C,Asset,weyland,Fixing
+Akhet,C,Ice,weyland,Advancable
+Broad Daylight,C,Agenda,weyland,BadPub
+The Cleaners,C,Agenda,weyland,TagNBag
+Ice Wall,C,Ice,weyland,Barrier
+Hive,C,Ice,weyland,Barrier
+Envelopment ,C,Ice,weyland,Barrier
+Asteroid Belt ,C,Ice,weyland,Barrier
+Maskirovka ,C,Ice,weyland,Barrier
+Wormhole,C,Ice,weyland,CodeGate
+Veritas,C,Ice,weyland,Sentry
+Nebula,C,Ice,weyland,Sentry
+Shadow,C,Ice,weyland,Sentry
+Caduceus,C,Ice,weyland,Sentry
+Priority Construction,C,Operation,weyland,Advancable
+Oversight AI,C,Operation,weyland,BlueSun
+Beanstalk Royalties,C,Operation,weyland,Economy
+Government Subsidy ,C,Operation,weyland,Economy
+Extract,C,Operation,weyland,Ob
+End of the Line,C,Operation,weyland,TagNBag
+Malapert Data Vault,C,Upgrade,weyland,Goodstuff
+K. P. Lynn,C,Upgrade,weyland,TagStorm
+Hostile Takeover,N,Agenda,weyland,BadPub
+Regulatory Capture,N,Agenda,weyland,BadPub
+Azef Protocol,N,Agenda,weyland,FA
+SDS Drone Deployment,N,Agenda,weyland,Glacier
+Project Atlas,N,Agenda,weyland,Goodstuff
+Wall to Wall,N,Asset,weyland,Advancable
+Commercial Bankers Group,N,Asset,weyland,AssetSpam
+Superdeep Borehole,N,Asset,weyland,BadPub
+Contract Killer,N,Asset,weyland,Combo
+Executive Boot Camp,N,Asset,weyland,Combo
+Mark Yale,N,Asset,weyland,Ob
+Clearinghouse,N,Asset,weyland,Trap
+Standoff ,N,FakeAgenda,weyland,FakePoints
+Masvingo,N,Ice,weyland,Advancable
+Bulwark,N,Ice,weyland,BadPub
+Border Control,N,Ice,weyland,Barrier
+Spiderweb,N,Ice,weyland,Barrier
+Hortum,N,Ice,weyland,CodeGate
+Afshar,N,Ice,weyland,CodeGate
+Tour Guide,N,Ice,weyland,Sentry
+Surveyor,N,Ice,weyland,Sentry
+Formicary,N,Ice,weyland,Sentry
+Dedication Ceremony,N,Operation,weyland,Combo
+Punitive Counterstrike,N,Operation,weyland,Combo
+Shipment from Kaguya,N,Operation,weyland,Combo
+Audacity,N,Operation,weyland,FA
+Economic Warfare,N,Operation,weyland,TagNBag
+High-Profile Target,N,Operation,weyland,TagNBag
+Scorched Earth,N,Operation,weyland,TagNBag
+Trust Operation,N,Operation,weyland,TagPayoff
+Government Takeover,R,Agenda,weyland,Glacier
+Above the Law,R,Agenda,weyland,Goodstuff
+City Works Project,R,Agenda,weyland,TagNBag
+Reconstruction Contract,R,Asset,weyland,Combo
+Svyatogor Excavator,R,Asset,weyland,Ob
+Zealous Judge,R,Asset,weyland,TagStorm
+Oduduwa ,R,Ice,weyland,Advancable
+Mausolus,R,Ice,weyland,CodeGate
+Orion,R,Ice,weyland,Multi
+Archer,R,Ice,weyland,Sentry
+Trebuchet,R,Ice,weyland,Sentry
+Red Planet Couriers,R,Operation,weyland,Advancable
+Too Big to Fail,R,Operation,weyland,BadPub
+Consulting Visit,R,Operation,weyland,Combo
+Stock Buy-Back ,R,Operation,weyland,FakePoints
+BOOM!,R,Operation,weyland,TagNBag
+Mutually Assured Destruction,R,Operation,weyland,TagStorm
+Cayambe Grid,R,Upgrade,weyland,Advancable
+Off the Grid,R,Upgrade,weyland,Engine
+Crisium Grid,R,Upgrade,weyland,Tech

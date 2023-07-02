@@ -1,0 +1,606 @@
+,index,pack_code,title,count,decklists,type_code,is_nsg
+0,1917,sg,Sure Gamble,1009,338,event,True
+1,2001,su21,Dirty Laundry,643,227,event,True
+2,1820,ur,Daily Casts,595,214,resource,True
+3,1991,su21,Diesel,344,125,event,True
+4,1916,sg,Overclock,320,135,event,True
+5,1907,sg,Creative Commission,312,108,event,True
+6,2057,ms,Steelskin Scarring,298,102,event,True
+7,1800,ur,Bravado,295,107,event,True
+8,2078,ms,Endurance,289,126,hardware,True
+9,1894,sg,Fermenter,256,93,program,True
+10,1915,sg,Jailbreak,254,96,event,True
+11,2066,ms,Pinhole Threading,254,146,event,True
+12,1801,ur,Boomerang,254,107,hardware,True
+13,1811,ur,Simulchip,252,122,hardware,True
+14,1891,sg,Botulus,229,97,program,True
+15,2003,su21,Earthrise Hotel,221,93,resource,True
+16,959,bm,Paperclip,213,147,program,False
+17,2073,ms,No Free Lunch,198,85,resource,True
+18,943,23s,Deuces Wild,197,85,event,False
+19,1898,sg,Mutual Favor,194,99,event,True
+20,1793,ur,Moshing,184,68,event,True
+21,1744,df,The Class Act,182,82,resource,True
+22,2083,ms,Stoneship Chart Room,175,68,resource,True
+23,1816,ur,Self-modifying Code,175,87,program,True
+24,1974,su21,Liberated Account,172,81,resource,True
+25,1497,ka,Diversion of Funds,165,59,event,False
+26,1730,df,Stargate,164,122,program,True
+27,1821,ur,DreamNet,162,89,resource,True
+28,1495,ka,Hippo,155,56,hardware,False
+29,2070,ms,Cezve,152,72,program,True
+30,2076,ms,Into the Depths,151,60,event,True
+31,1799,ur,Paladin Poemu,151,77,resource,True
+32,977,es,Black Orchestra,147,74,program,False
+33,1914,sg,Telework Contract,143,58,resource,True
+34,1742,df,Bukhgalter,143,115,program,True
+35,1752,df,Rezeki,142,54,program,True
+36,1982,su21,Inside Job,134,61,event,True
+37,1016,ml,MKUltra,128,78,program,False
+38,1063,dc,Mad Dash,125,87,event,False
+39,2077,ms,Rigging Up,124,50,event,True
+40,2075,ms,Deep Dive,112,61,event,True
+41,2063,ms,The Twinning,105,74,resource,True
+42,1900,sg,Docklands Pass,105,77,hardware,True
+43,1979,su21,Career Fair,102,48,event,True
+44,58,core,Sure Gamble,102,34,event,False
+45,1971,su21,Imp,100,49,program,True
+46,2065,ms,Carpe Diem,100,37,event,True
+47,1889,sg,Wildcat Strike,98,45,event,True
+48,1795,ur,Gachapon,96,42,hardware,True
+49,1893,sg,Cleaver,93,67,program,True
+50,2055,ms,Chastushka,91,36,event,True
+51,1918,sg,T400 Memory Diamond,91,45,hardware,True
+52,294,cac,Daily Casts,86,30,resource,False
+53,1005,in,Citadel Sanctuary,86,66,resource,False
+54,1999,su21,Aesop's Pawnshop,86,36,resource,True
+55,1895,sg,Leech,84,43,program,True
+56,1909,sg,DZMZ Optimizer,84,41,hardware,True
+57,1901,sg,Pennyshaver,81,38,hardware,True
+58,1457,tdatd,Rogue Trading,76,26,resource,False
+59,1969,su21,Clot,75,71,program,True
+60,2069,ms,Cat's Cradle,75,52,program,True
+61,800,dad,Harbinger,75,26,program,False
+62,1159,cd,Aumakua,75,46,program,False
+63,1899,sg,Tread Lightly,72,29,event,True
+64,1896,sg,Cookbook,70,36,resource,True
+65,1993,su21,The Maker's Eye,69,33,event,True
+66,2002,su21,Prepaid VoicePAD,69,29,hardware,True
+67,2061,ms,Avgustina Ivanovskaya,68,31,resource,True
+68,1456,tdatd,Falsified Credentials,67,30,event,False
+69,293,cac,Dirty Laundry,67,24,event,False
+70,1919,sg,Mayfly,66,39,program,True
+71,1970,su21,Corroder,65,50,program,True
+72,1729,df,Chisel,63,27,program,True
+73,2079,ms,Hyperbaric,63,49,program,True
+74,2056,ms,Running Hot,63,24,event,True
+75,1521,rar,Hot Pursuit,59,21,event,False
+76,1913,sg,Unity,58,43,program,True
+77,2058,ms,Ghosttongue,57,23,hardware,True
+78,1748,df,Spec Work,57,22,event,True
+79,1738,df,Blueberry!™ Diesel,55,22,event,True
+80,965,bm,Beth Kilrain-Chang,55,51,resource,False
+81,1020,ml,Misdirection,55,53,program,False
+82,796,dad,Apocalypse,54,22,event,False
+83,1920,sg,Smartware Distributor,52,25,resource,True
+84,1794,ur,Devil Charm,51,21,hardware,True
+85,1921,sg,Verbal Plasticity,50,26,resource,True
+86,1493,ka,Zer0,48,20,hardware,False
+87,623,oac,I've Had Worse,47,17,event,False
+88,2059,ms,Marrow,47,21,hardware,True
+89,976,es,Obelus,46,21,hardware,False
+90,1735,df,Trickster Taka,45,38,resource,True
+91,1415,dtwn,Credit Kiting,44,21,event,False
+92,1905,sg,Red Team,44,17,resource,True
+93,295,cac,Same Old Thing,43,23,resource,False
+94,1892,sg,Buzzsaw,42,27,program,True
+95,1814,ur,Mantle,42,23,program,True
+96,10,core,Déjà Vu,41,16,event,False
+97,1796,ur,Keiko,40,19,hardware,True
+98,1809,ur,Harmony AR Therapy,40,25,event,True
+99,1039,qu,Tapwrm,40,20,program,False
+100,1988,su21,Security Testing,40,26,resource,True
+101,1908,sg,VRcation,39,19,event,True
+102,1526,rar,Miss Bones,39,24,resource,False
+103,1537,rar,DJ Fenris,39,39,resource,False
+104,26,core,Account Siphon,39,16,event,False
+105,1498,ka,PAD Tap,38,13,resource,False
+106,1911,sg,Conduit,38,26,program,True
+107,1858,urbp,Swift,38,18,hardware,True
+108,1481,win,Logic Bomb,38,14,resource,False
+109,1496,ka,Amina,37,34,program,False
+110,1078,so,Counter Surveillance,37,17,resource,False
+111,1751,df,Pelangi,37,20,program,True
+112,1857,urbp,Mystic Maemi,36,28,resource,True
+113,1810,ur,Aniccam,36,17,hardware,True
+114,2062,ms,Light the Fire!,35,23,resource,True
+115,1394,ss,Yusuf,35,19,program,False
+116,1998,su21,Paricia,35,30,program,True
+117,2072,ms,Backstitching,34,15,resource,True
+118,1980,su21,Emergency Shutdown,34,15,event,True
+119,1500,ka,Engolo,34,28,program,False
+120,1755,df,Rejig,34,20,event,True
+121,1864,mor,Labor Rights,34,15,event,False
+122,279,cac,Clone Chip,33,14,hardware,False
+123,16,core,Datasucker,32,15,program,False
+124,1902,sg,Carmen,32,22,program,True
+125,2060,ms,Begemot,31,18,program,True
+126,1983,su21,Legwork,31,18,event,True
+127,544,uao,Inject,30,11,event,False
+128,1021,ml,Reaver,30,21,program,False
+129,708,uw,Street Peddler,29,10,resource,False
+130,1992,su21,Test Run,29,15,event,True
+131,1156,cd,Mining Accident,28,11,event,False
+132,1044,qu,Peace in Our Time,28,13,event,False
+133,20,core,Parasite,28,11,program,False
+134,1968,su21,Retrieval Run,27,16,event,True
+135,1819,ur,Buffer Drive,27,23,hardware,True
+136,287,cac,Self-modifying Code,27,11,program,False
+137,1912,sg,Echelon,26,19,program,True
+138,1420,dtwn,Emergent Creativity,26,10,event,False
+139,1997,su21,Gordian Blade,26,15,program,True
+140,1741,df,Masterwork (v37),25,10,hardware,True
+141,1973,su21,Ice Carver,25,18,resource,True
+142,1747,df,Khusyuk,25,13,event,True
+143,1975,su21,Scrubber,25,15,resource,True
+144,1454,tdatd,Knobkierie,25,12,hardware,False
+145,143,ta,Liberated Account,25,10,resource,False
+146,19,core,Mimic,24,15,program,False
+147,863,dag,Spy Camera,24,5,hardware,False
+148,801,dad,Hunting Grounds,24,16,resource,False
+149,1803,ur,Prognostic Q-Loop,24,11,hardware,True
+150,806,dad,Multithreader,24,11,program,False
+151,2067,ms,PAN-Weave,24,19,hardware,True
+152,1734,df,The Nihilist,24,14,resource,True
+153,981,es,Net Mercur,24,12,resource,False
+154,1986,su21,Femme Fatale,23,14,program,True
+155,18,core,Medium,23,12,program,False
+156,591,ts,Earthrise Hotel,23,9,resource,False
+157,2068,ms,Virtuoso,23,11,hardware,True
+158,1996,su21,Egret,22,10,program,True
+159,30,core,Special Order,22,9,event,False
+160,797,dad,Prey,22,9,event,False
+161,1535,rar,Reboot,22,9,event,False
+162,1904,sg,Tranquilizer,21,11,program,True
+163,42,core,Diesel,21,8,event,False
+164,627,oac,Day Job,21,7,event,False
+165,1972,su21,Mimic,21,14,program,True
+166,1910,sg,Pantograph,20,13,hardware,True
+167,2049,msbp,Deep Dive,20,9,event,True
+168,1987,su21,Sneakdoor Beta,19,16,program,True
+169,1531,rar,Ika,19,19,program,False
+170,1994,su21,Atman,19,11,program,True
+171,802,dad,Wasteland,19,7,resource,False
+172,1976,su21,Xanadu,19,12,resource,True
+173,906,tlm,The Turning Wheel,18,12,resource,False
+174,2080,ms,Propeller,18,15,program,True
+175,15,core,Corroder,18,11,program,False
+176,1967,su21,En Passant,18,7,event,True
+177,1903,sg,Marjanah,17,11,program,True
+178,885,si,Sports Hopper,17,8,hardware,False
+179,1750,df,Gauss,17,17,program,True
+180,1460,tdatd,Consume,17,12,program,False
+181,631,oac,Eater,17,6,program,False
+182,1981,su21,Forged Activation Orders,17,7,event,True
+183,504,tsb,D4v1d,17,10,program,False
+184,22,core,Yog.0,17,11,program,False
+185,276,cac,Levy AR Lab Access,17,12,event,False
+186,1804,ur,Swift,16,8,hardware,True
+187,1436,cotc,"Corporate ""Grant""",16,7,event,False
+188,32,core,Desperado,16,8,hardware,False
+189,1805,ur,Afterimage,16,16,program,True
+190,813,dad,Security Nexus,16,6,hardware,False
+191,2071,ms,Revolver,16,12,program,True
+192,1733,df,Fencer Fueno,16,13,resource,True
+193,339,mt,Knight,15,6,program,False
+194,1797,ur,Odore,15,10,program,True
+195,799,dad,Endless Hunger,15,5,program,False
+196,29,core,Inside Job,15,7,event,False
+197,145,ta,e3 Feedback Implants,15,6,hardware,False
+198,646,oac,Data Folding,15,5,resource,False
+199,130,wla,Plascrete Carapace,15,9,hardware,False
+200,1753,df,The Artist,15,9,resource,True
+201,844,bf,Tech Trader,15,5,resource,False
+202,669,bb,Career Fair,14,5,event,False
+203,142,ta,Vamp,14,7,event,False
+204,208,hs,Quality Time,14,6,event,False
+205,1439,cotc,Gbahali,14,8,resource,False
+206,1421,dtwn,RNG Key,14,10,program,False
+207,798,dad,Heartbeat,14,5,hardware,False
+208,751,uot,Fisk Investment Seminar,14,6,event,False
+209,1437,cotc,No One Home,14,10,resource,False
+210,1815,ur,Penrose,14,14,program,True
+211,630,oac,Spooned,14,7,event,False
+212,1523,rar,Bankroll,14,7,program,False
+213,14,core,Grimoire,13,7,hardware,False
+214,1739,df,Flip Switch,13,8,hardware,True
+215,451,hap,Legwork,13,8,event,False
+216,12,core,Stimhack,13,7,event,False
+217,1813,ur,Euler,13,8,program,True
+218,2081,ms,"Daeg, First Net-Cat",12,10,resource,True
+219,1806,ur,Makler,12,10,program,True
+220,527,fc,The Supplier,12,5,resource,False
+221,1609,sc19,Special Order,12,4,event,False
+222,464,hap,Security Testing,12,5,resource,False
+223,34,core,Femme Fatale,12,8,program,False
+224,228,fp,R&D Interface,12,6,hardware,False
+225,1413,dtwn,Acacia,12,6,hardware,False
+226,225,fp,Faerie,12,5,program,False
+227,212,hs,Kati Jones,11,8,resource,False
+228,37,core,Bank Job,11,5,resource,False
+229,1083,so,Build Script,11,5,event,False
+230,1144,fm,Bloo Moose,11,5,resource,False
+231,1728,df,Demolisher,11,6,hardware,True
+232,1418,dtwn,Takobi,11,11,program,False
+233,2000,su21,Professional Contacts,11,5,resource,True
+234,710,uw,Drive By,11,6,event,False
+235,1573,mo,Crowdfunding,10,4,resource,False
+236,716,uw,Hyperdriver,10,4,program,False
+237,469,hap,Overmind,10,4,program,False
+238,866,dag,"""Freedom Through Equality""",10,6,event,False
+239,667,bb,Hacktivist Meeting,10,4,event,False
+240,1740,df,Lucky Charm,10,10,hardware,True
+241,629,oac,Knifed,10,7,event,False
+242,805,dad,Brain Chip,10,6,hardware,False
+243,1057,dc,Maw,10,5,hardware,False
+244,1435,cotc,Crypt,10,5,resource,False
+245,357,tc,Keyhole,10,5,program,False
+246,24,core,Wyldside,9,3,resource,False
+247,2082,ms,Environmental Testing,9,4,resource,True
+248,1515,rar,Guinea Pig,9,3,event,False
+249,275,cac,Scavenge,9,4,event,False
+250,819,dad,Employee Strike,9,5,event,False
+251,749,uot,DDoS,9,4,resource,False
+252,815,dad,GS Shrike M2,9,7,program,False
+253,52,core,Magnum Opus,9,4,program,False
+254,402,dt,Fall Guy,9,3,resource,False
+255,17,core,Djinn,9,4,program,False
+256,1590,sc19,Datasucker,9,4,program,False
+257,707,uw,Faust,9,7,program,False
+258,1476,win,Embezzle,9,5,event,False
+259,1522,rar,Paragon,9,5,hardware,False
+260,550,uao,Astrolabe,9,6,hardware,False
+261,1316,core2,Sure Gamble,9,3,event,False
+262,1143,fm,Na'Not'K,9,9,program,False
+263,982,es,Find the Truth,9,8,resource,False
+264,1571,mo,Labor Rights,9,5,event,False
+265,405,dt,Lucky Find,8,3,event,False
+266,338,mt,Deep Red,8,3,hardware,False
+267,693,cc,Net-Ready Eyes,8,5,hardware,False
+268,1871,sm,Parasite,8,3,program,False
+269,816,dad,GS Sherman M3,8,6,program,False
+270,1474,win,Trypano,8,6,program,False
+271,814,dad,GS Striker M1,8,6,program,False
+272,1731,df,Utae,8,7,program,True
+273,1477,win,Slipstream,8,8,resource,False
+274,807,dad,Always Be Running,8,6,resource,False
+275,1516,rar,Patchwork,8,4,hardware,False
+276,1532,rar,Kyuban,8,4,program,False
+277,1859,urbp,Cybertrooper Talut,8,4,resource,True
+278,485,up,Lamprey,8,3,program,False
+279,1398,ss,Cyberdelia,8,3,hardware,False
+280,628,oac,Forked,8,5,event,False
+281,732,oh,Film Critic,8,6,resource,False
+282,961,bm,Temüjin Contract,7,3,resource,False
+283,695,cc,Brain Cage,7,4,hardware,False
+284,1478,win,Laamb,7,5,program,False
+285,1514,rar,Divide and Conquer,7,4,event,False
+286,36,core,Sneakdoor Beta,7,4,program,False
+287,164,ce,Emergency Shutdown,7,3,event,False
+288,1812,ur,Cordyceps,7,6,program,True
+289,626,oac,Wanton Destruction,7,4,event,False
+290,1732,df,Climactic Showdown,7,4,resource,True
+291,44,core,The Maker's Eye,7,3,event,False
+292,1890,sg,Carnivore,7,4,hardware,True
+293,818,dad,Jak Sinclair,7,3,resource,False
+294,1400,ss,Assimilator,7,3,resource,False
+295,1041,qu,Aaron Marrón,7,4,resource,False
+296,633,oac,Hivemind,7,3,program,False
+297,1798,ur,Mystic Maemi,7,5,resource,True
+298,2048,msbp,Revolver,7,4,program,True
+299,1395,ss,Zamba,7,3,hardware,False
+300,1641,sc19,Armitage Codebusting,7,4,resource,False
+301,1137,fm,God of War,7,3,program,False
+302,957,bm,Rumor Mill,7,4,event,False
+303,649,val,Adjusted Chronotype,7,3,resource,False
+304,23,core,Ice Carver,6,6,resource,False
+305,227,fp,Indexing,6,3,event,False
+306,881,si,Exclusive Party,6,1,event,False
+307,305,om,John Masanori,6,4,resource,False
+308,190,asis,Underworld Contact,6,2,resource,False
+309,919,ftm,Bhagat,6,4,resource,False
+310,398,dt,Queen's Gambit,6,3,event,False
+311,1002,in,Top Hat,6,5,hardware,False
+312,1743,df,"""Baklan"" Bochkin",6,4,resource,True
+313,1529,rar,Mind's Eye,6,2,hardware,False
+314,46,core,Akamatsu Mem Chip,6,2,hardware,False
+315,1077,so,Clan Vengeance,6,2,resource,False
+316,1807,ur,Penumbral Toolkit,6,3,resource,True
+317,1865,mor,Crowdfunding,6,2,resource,False
+318,1295,core2,Fall Guy,6,2,resource,False
+319,1265,core2,Stimhack,6,3,event,False
+320,1494,ka,Musaazi,6,4,program,False
+321,1186,td,Maxwell James,6,2,resource,False
+322,821,dad,Technical Writer,6,3,resource,False
+323,1638,sc19,Sure Gamble,6,2,event,False
+324,1433,cotc,eXer,6,3,program,False
+325,996,in,En Passant,6,2,event,False
+326,1639,sc19,Dirty Laundry,6,2,event,False
+327,1276,core2,Liberated Account,6,2,resource,False
+328,55,core,Aesop's Pawnshop,6,2,resource,False
+329,1434,cotc,Friday Chip,6,3,hardware,False
+330,450,hap,Feint,6,4,event,False
+331,1873,sm,Cache,6,2,program,False
+332,1517,rar,Hijacked Router,6,3,hardware,False
+333,453,hap,Logos,6,3,hardware,False
+334,508,tsb,Cache,6,2,program,False
+335,826,kg,Mongoose,5,3,program,False
+336,655,val,Symmetrical Visage,5,2,resource,False
+337,458,hap,Breach,5,4,program,False
+338,298,om,Pawn,5,2,program,False
+339,526,fc,Box-E,5,3,hardware,False
+340,1533,rar,Psych Mike,5,4,resource,False
+341,2047,msbp,Light the Fire!,5,3,resource,True
+342,1818,ur,Paule's Café,5,4,resource,True
+343,209,hs,Replicator,5,2,hardware,False
+344,318,st,Scheherazade,5,2,program,False
+345,13,core,Cyberfeeder,5,2,hardware,False
+346,1399,ss,Upya,5,3,program,False
+347,490,up,Leprechaun,5,2,program,False
+348,300,om,Hostage,5,2,event,False
+349,1499,ka,Reclaim,5,2,resource,False
+350,1749,df,Supercorridor,5,3,hardware,True
+351,810,dad,Safety First,5,2,resource,False
+352,1416,dtwn,Wari,5,3,program,False
+353,462,hap,Passport,5,5,program,False
+354,1602,sc19,Easy Mark,5,2,event,False
+355,1104,eas,Dadiana Chacon,5,3,resource,False
+356,1995,su21,Chameleon,5,4,program,True
+357,1160,cd,Caldera,5,5,resource,False
+358,184,asis,Scrubber,5,3,resource,False
+359,1635,sc19,Aesop's Pawnshop,5,2,resource,False
+360,286,cac,Paricia,5,2,program,False
+361,812,dad,Security Chip,5,2,hardware,False
+362,61,core,Armitage Codebusting,5,2,resource,False
+363,124,wla,Imp,5,3,program,False
+364,571,atr,Utopia Shard,5,5,resource,False
+365,1754,df,Direct Access,5,5,event,True
+366,162,ce,Nerve Agent,5,3,program,False
+367,206,hs,HQ Interface,5,3,hardware,False
+368,1310,core2,Magnum Opus,5,3,program,False
+369,222,fp,Retrieval Run,5,4,event,False
+370,127,wla,Peacock,5,3,program,False
+371,668,bb,Off-Campus Apartment,5,2,resource,False
+372,584,ts,Incubator,4,2,program,False
+373,1315,core2,Infiltration,4,2,event,False
+374,171,ce,Public Sympathy,4,2,resource,False
+375,281,cac,Atman,4,4,program,False
+376,40,core,Decoy,4,3,resource,False
+377,1608,sc19,Spear Phishing,4,2,event,False
+378,299,om,Rook,4,2,program,False
+379,998,in,The Gauntlet,4,3,hardware,False
+380,1096,eas,Berserker,4,2,program,False
+381,33,core,Aurora,4,2,program,False
+382,530,fc,Hades Shard,4,4,resource,False
+383,1475,win,Contaminate,4,2,event,False
+384,1518,rar,Cradle,4,2,program,False
+385,634,oac,Progenitor,4,2,program,False
+386,1195,td,Dhegdheer,4,2,program,False
+387,713,uw,Gang Sign,4,2,resource,False
+388,1482,win,Jackpot!,4,2,resource,False
+389,1419,dtwn,Kongamato,4,2,resource,False
+390,864,dag,Political Operative,4,4,resource,False
+391,301,om,Gorman Drip v1,4,2,program,False
+392,186,asis,Crescentus,4,2,program,False
+393,11,core,Demolition Run,4,2,event,False
+394,570,atr,"Cerberus ""Lady"" H1",4,2,program,False
+395,960,bm,Golden,4,3,program,False
+396,1985,su21,Abagnale,4,4,program,True
+397,1610,sc19,HQ Interface,4,2,hardware,False
+398,939,23s,Hernando Cortez,3,3,resource,False
+399,45,core,Tinkering,3,1,event,False
+400,27,core,Easy Mark,3,1,event,False
+401,385,fal,Blackmail,3,1,event,False
+402,342,mt,Grifter,3,1,resource,False
+403,452,hap,Planned Assault,3,3,event,False
+404,362,tc,LLDS Processor,3,1,hardware,False
+405,292,cac,Ice Analyzer,3,1,resource,False
+406,280,cac,Omni-drive,3,1,hardware,False
+407,1299,core2,Indexing,3,1,event,False
+408,648,val,Paige Piper,3,1,resource,False
+409,886,si,Bazaar,3,1,resource,False
+410,1808,ur,The Back,3,3,resource,True
+411,753,uot,DaVinci,3,1,program,False
+412,715,uw,Chameleon,3,1,program,False
+413,1584,sc19,Retrieval Run,3,1,event,False
+414,568,atr,Zona Sul Shipping,3,1,resource,False
+415,168,ce,Test Run,3,1,event,False
+416,1266,core2,Cyberfeeder,3,1,hardware,False
+417,979,es,Peregrine,3,2,program,False
+418,1587,sc19,Cyberfeeder,3,1,hardware,False
+419,325,st,Prepaid VoicePAD,3,1,hardware,False
+420,1059,dc,Exploit,3,2,event,False
+421,638,oac,Vigil,3,2,hardware,False
+422,1319,core2,Armitage Codebusting,3,1,resource,False
+423,170,ce,Personal Workshop,3,1,resource,False
+424,1286,core2,HQ Interface,3,1,hardware,False
+425,447,hap,Calling in Favors,3,1,event,False
+426,1138,fm,Leave No Trace,3,2,event,False
+427,1737,df,Always Have a Backup Plan,3,2,event,True
+428,1313,core2,All-nighter,3,1,resource,False
+429,470,hap,Oracle May,3,1,resource,False
+430,1037,qu,Sūnya,3,2,program,False
+431,712,uw,Shiv,3,1,program,False
+432,1621,sc19,Diesel,3,1,event,False
+433,997,in,Frantic Coding,3,2,event,False
+434,1524,rar,Tycoon,3,2,program,False
+435,1586,sc19,Stimhack,3,2,event,False
+436,1622,sc19,Modded,3,1,event,False
+437,461,hap,Grappling Hook,3,1,program,False
+438,650,val,Spike,3,1,program,False
+439,203,hs,Xanadu,3,2,resource,False
+440,672,bb,Game Day,3,1,event,False
+441,1501,ka,Flame-out,3,1,hardware,False
+442,48,core,The Personal Touch,3,1,hardware,False
+443,57,core,Infiltration,3,1,event,False
+444,920,ftm,The Black File,3,3,resource,False
+445,1479,win,Gebrselassie,3,2,hardware,False
+446,1984,su21,Networking,3,2,event,True
+447,1285,core2,Doppelgänger,3,1,hardware,False
+448,1019,ml,Equivocation,3,3,program,False
+449,1727,df,Isolation,3,2,event,True
+450,1746,df,In the Groove,3,2,event,True
+451,692,cc,Crowbar,3,1,program,False
+452,958,bm,Nfr,3,2,program,False
+453,1269,core2,Datasucker,3,1,program,False
+454,1440,cotc,White Hat,3,2,event,False
+455,289,cac,Inti,3,3,program,False
+456,639,oac,Human First,3,2,resource,False
+457,647,val,Clot,3,3,program,False
+458,487,up,Power Tap,3,1,resource,False
+459,47,core,Rabbit Hole,3,1,hardware,False
+460,829,kg,Panchatantra,3,1,program,False
+461,296,cac,The Source,3,2,resource,False
+462,230,fp,New Angeles City Hall,3,3,resource,False
+463,163,ce,Joshua B.,3,1,resource,False
+464,1136,fm,Mars for Martians,3,1,event,False
+465,622,oac,Amped Up,3,2,event,False
+466,1536,rar,Office Supplies,3,1,event,False
+467,904,tlm,Rebirth,3,3,event,False
+468,1502,ka,Black Hat,3,1,event,False
+469,1459,tdatd,Nyashia,3,3,program,False
+470,1396,ss,Puffer,3,2,program,False
+471,1870,sm,Medium,3,2,program,False
+472,51,core,Gordian Blade,2,2,program,False
+473,1525,rar,Thunder Art Gallery,2,1,resource,False
+474,1058,dc,The Archivist,2,1,resource,False
+475,272,cac,Escher,2,2,event,False
+476,226,fp,Mr. Li,2,2,resource,False
+477,880,si,Salsette Slums,2,1,resource,False
+478,747,uot,Power to the People,2,1,event,False
+479,689,cc,Turntable,2,2,hardware,False
+480,303,om,False Echo,2,1,program,False
+481,754,uot,Wireless Net Pavilion,2,1,resource,False
+482,733,oh,Paparazzi,2,1,resource,False
+483,1503,ka,Kasi String,2,2,resource,False
+484,901,tlm,Out of the Ashes,2,1,event,False
+485,1181,td,Abagnale,2,1,program,False
+486,1182,td,Lustig,2,1,program,False
+487,752,uot,Bookmark,2,1,hardware,False
+488,1178,td,Spear Phishing,2,1,event,False
+489,1284,core2,Special Order,2,1,event,False
+490,1534,rar,Algernon,2,1,program,False
+491,1060,dc,Spot the Prey,2,2,event,False
+492,207,hs,Pheromones,2,1,program,False
+493,1098,eas,Rubicon Switch,2,1,hardware,False
+494,636,oac,Chop Bot 3000,2,1,hardware,False
+495,711,uw,Forger,2,1,hardware,False
+496,1592,sc19,Imp,2,1,program,False
+497,1480,win,Compile,2,1,event,False
+498,1023,ml,Baba Yaga,2,1,program,False
+499,128,wla,ZU.13 Key Master,2,2,program,False
+500,1272,core2,Hemorrhage,2,1,program,False
+501,1611,sc19,Paragon,2,1,hardware,False
+502,860,dag,Political Graffiti,2,1,event,False
+503,1277,core2,Scrubber,2,1,resource,False
+504,675,bb,London Library,2,1,resource,False
+505,632,oac,Gravedigger,2,1,program,False
+506,643,oac,Virus Breeding Ground,2,1,resource,False
+507,1097,eas,Persephone,2,1,program,False
+508,1117,baw,Jarogniew Mercs,2,1,resource,False
+509,288,cac,Sahasrara,2,1,program,False
+510,1122,baw,Mass-Driver,2,2,program,False
+511,1530,rar,Mâché,2,1,hardware,False
+512,1305,core2,Dinosaurus,2,1,hardware,False
+513,1142,fm,Maven,2,2,program,False
+514,1157,cd,Respirocytes,2,1,hardware,False
+515,922,ftm,Ankusa,2,2,program,False
+516,546,uao,Fester,2,1,resource,False
+517,1393,ss,By Any Means,2,1,event,False
+518,202,hs,Surge,2,1,event,False
+519,586,ts,Code Siphon,2,1,event,False
+520,1262,core2,Demolition Run,2,1,event,False
+521,898,tlm,The Noble Path,2,1,event,False
+522,1271,core2,Imp,2,1,program,False
+523,842,bf,Diwan,2,1,program,False
+524,714,uw,Muertos Gang Member,2,2,resource,False
+525,1294,core2,Crash Space,2,2,resource,False
+526,1874,sm,Indexing,2,1,event,False
+527,457,hap,Alias,2,1,program,False
+528,31,core,Lemuria Codecracker,2,2,hardware,False
+529,999,in,Saker,2,1,program,False
+530,905,tlm,Guru Davinder,2,2,resource,False
+531,956,bm,Credit Crash,2,1,event,False
+532,39,core,Data Dealer,2,2,resource,False
+533,448,hap,Early Bird,2,1,event,False
+534,322,st,Leviathan,2,2,program,False
+535,317,st,Bishop,2,1,program,False
+536,1278,core2,Xanadu,2,1,resource,False
+537,980,es,Houdini,2,2,program,False
+538,824,kg,Street Magic,2,1,resource,False
+539,466,hap,Tri-maf Contact,1,1,resource,False
+540,843,bf,CBI Raid,1,1,event,False
+541,129,wla,The Helpful AI,1,1,resource,False
+542,1598,sc19,Xanadu,1,1,resource,False
+543,938,23s,GPI Net Tap,1,1,hardware,False
+544,531,fc,Rachel Beckman,1,1,resource,False
+545,1643,sc19,John Masanori,1,1,resource,False
+546,59,core,Crypsis,1,1,program,False
+547,748,uot,Surfer,1,1,program,False
+548,637,oac,MemStrips,1,1,hardware,False
+549,687,cc,Immolation Script,1,1,event,False
+550,653,val,Synthetic Blood,1,1,resource,False
+551,1875,sm,"Cerberus ""Lady"" H1",1,1,program,False
+552,691,cc,Titanium Ribs,1,1,hardware,False
+553,941,23s,Dai V,1,1,program,False
+554,1438,cotc,Marathon,1,1,event,False
+555,1618,sc19,Data Dealer,1,1,resource,False
+556,1273,core2,Mimic,1,1,program,False
+557,1270,core2,Force of Nature,1,1,program,False
+558,670,bb,Dorm Computer,1,1,hardware,False
+559,1103,eas,Inversificator,1,1,program,False
+560,1003,in,Blackstone,1,1,program,False
+561,1414,dtwn,Plague,1,1,program,False
+562,285,cac,Cyber-Cypher,1,1,program,False
+563,38,core,Crash Space,1,1,resource,False
+564,867,dag,Akshara Sareen,1,1,resource,False
+565,1640,sc19,Crypsis,1,1,program,False
+566,1287,core2,Aurora,1,1,program,False
+567,884,si,Patron,1,1,resource,False
+568,43,core,Modded,1,1,event,False
+569,56,core,Sacrificial Construct,1,1,resource,False
+570,282,cac,Cloak,1,1,program,False
+571,283,cac,Dagger,1,1,program,False
+572,1458,tdatd,Because I Can,1,1,event,False
+573,1589,sc19,Corroder,1,1,program,False
+574,1633,sc19,Gordian Blade,1,1,program,False
+575,278,cac,Feedback Filter,1,1,hardware,False
+576,1017,ml,On the Lam,1,1,event,False
+577,460,hap,Gingerbread,1,1,program,False
+578,1274,core2,Morning Star,1,1,program,False
+579,1036,qu,Şifr,1,1,hardware,False
+580,53,core,Net Shield,1,1,program,False
+581,809,dad,Neutralize All Threats,1,1,resource,False
+582,1184,td,Mammon,1,1,program,False
+583,1100,eas,Rosetta 2.0,1,1,resource,False
+584,1038,qu,Recon Drone,1,1,hardware,False
+585,1000,in,Blockade Runner,1,1,resource,False
+586,565,atr,"Cerberus ""Cuj.0"" H3",1,1,program,False
+587,505,tsb,Scrubbed,1,1,event,False
+588,223,fp,Darwin,1,1,program,False
+589,21,core,Wyrm,1,1,program,False
+590,1139,fm,Rip Deal,1,1,event,False
+591,567,atr,"Cerberus ""Rex"" H2",1,1,program,False
+592,449,hap,Express Delivery,1,1,event,False
+593,1121,baw,Daredevil,1,1,hardware,False
+594,363,tc,Sharpshooter,1,1,program,False
+595,343,mt,Torch,1,1,program,False
+596,169,ce,Dinosaurus,1,1,hardware,False
+597,147,ta,Notoriety,1,1,event,False
+598,125,wla,Morning Star,1,1,program,False
+599,123,wla,Spinal Modem,1,1,hardware,False
+600,1817,ur,Cybertrooper Talut,1,1,resource,True
+601,1802,ur,Mu Safecracker,1,1,hardware,True
+602,1191,td,Ubax,1,1,hardware,False
+603,1177,td,Brute-Force-Hack,1,1,event,False
+604,210,hs,Creeper,1,1,program,False
