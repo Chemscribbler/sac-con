@@ -1,0 +1,13 @@
+black
+Flask
+Flask-Login
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-WTF
+gunicorn
+Markdown
+pandas
+python-dotenv
+requests
+SQLAlchemy
+tqdm
