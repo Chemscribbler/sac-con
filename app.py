@@ -1,5 +1,6 @@
 from source import app, db
 from source.models import User, Card, Pack, Draft, Deck
+from source import utils
 
 
 @app.shell_context_processor
@@ -11,4 +12,5 @@ def make_shell_context():
         "Pack": Pack,
         "Draft": Draft,
         "Deck": Deck,
+        "utils": utils,
     }

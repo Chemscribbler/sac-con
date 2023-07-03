@@ -1,4 +1,6 @@
 venv/
-__pychache__/
+__pycache__/
 .vscode/
 app.db
+source/__pycache__/
+*.pyc

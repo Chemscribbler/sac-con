@@ -1,6 +1,10 @@
 import pandas as pd
+from source.models import Card, Pack
+from source import db
 
-CARDPOOL_PATH = "corp_spreadsheets\CorpPool_Draft1.csv"
+CARDPOOL_PATH = (
+    "/Users/jeff/Documents/Netrunner/sac-con/corp_spreadsheets/CorpPool_Draft1.csv"
+)
 CARDPOOL = pd.read_csv(CARDPOOL_PATH)
 
 
@@ -87,11 +91,11 @@ def faction_swap(
     faction_list=["haas-bioroid", "jinteki", "nbn", "weyland", "Neutral"],
 ):
     while True:
+        deduplicator(pack, cardpool)
         missing_faction = faction_checker(pack, faction_list)
         if missing_faction is None:
             return pack
         pack = faction_replace(pack, missing_faction, cardpool)
-        deduplicator(pack, cardpool)
 
 
 def deduplicator(pack: pd.DataFrame, cardpool: pd.DataFrame):
@@ -140,3 +144,12 @@ def make_corp_pack(cardpool: pd.DataFrame):
     pack = pd.concat([pack_upgrades, pack_commons])
     pack = faction_swap(pack, cardpool)
     return pack
+
+
+def add_pack_to_db(pack: pd.DataFrame):
+    card_ids = [
+        Card.query.filter_by(card_name=card).first() for card in pack["Card"].values
+    ]
+    pack = Pack(cards=card_ids)
+    db.session.add(pack)
+    db.session.commit()
