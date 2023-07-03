@@ -221,7 +221,7 @@ Bernice Mai,N,Upgrade,nbn,TagGen
 AMAZE Amusements,N,Upgrade,nbn,TagStorm
 AstroScript Pilot Program,R,Agenda,nbn,FA
 Bellona,R,Agenda,nbn,Goodstuff
-Tomorrow's Headline ,R,Agenda,nbn,TagGen
+Tomorrows Headline ,R,Agenda,nbn,TagGen
 Sensie Actors Union,R,Asset,nbn,AssetSpam
 Echo Chamber,R,Asset,nbn,Glacier
 Drago Ivanov,R,Asset,nbn,TagGen
@@ -231,7 +231,7 @@ Slot Machine,R,Ice,nbn,CodeGate
 Universal Connectivity Fee,R,Ice,nbn,Mythic
 Thoth,R,Ice,nbn,Sentry
 The All-Seeing I,R,Operation,nbn,TagPayoff
-Closed Account,R,Operation,nbn,TagPayoff
+Closed Accounts,R,Operation,nbn,TagPayoff
 Exchange of Information,R,Operation,nbn,TagStorm
 Market Forces,R,Operation,nbn,TagStorm
 Midseason Replacements,R,Operation,nbn,TagStorm
@@ -293,7 +293,7 @@ Sandburg,R,Asset,Neutral,BigEcon
 Vanilla,R,Ice,Neutral,Barrier
 Quandary,R,Ice,Neutral,CodeGate
 Mother Goddess,R,Ice,Neutral,Mythic
-Exalibur,R,Ice,Neutral,Mythic
+Excalibur,R,Ice,Neutral,Mythic
 Guard,R,Ice,Neutral,Sentry
 Mass Commercialization,R,Operation,Neutral,Advancable
 NGO Front,R,Operation,Neutral,Economy
