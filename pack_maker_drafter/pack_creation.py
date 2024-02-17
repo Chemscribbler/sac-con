@@ -1,11 +1,9 @@
 import pandas as pd
-from source.models import Card, Pack
-from source import db
+import os
 
-CARDPOOL_PATH = (
-    "/Users/jeff/Documents/Netrunner/sac-con/corp_spreadsheets/CorpPool_Draft1.csv"
-)
-CARDPOOL = pd.read_csv(CARDPOOL_PATH)
+curr_dir = os.path.dirname(os.path.abspath(__file__))
+csv_file_path = os.path.join(curr_dir, "..", "corp_spreadsheets", "CorpPool_Draft1.csv")
+CARDPOOL = pd.read_csv(csv_file_path)
 
 
 def upgrade_rarities(draft_pack: pd.DataFrame, rarity: str, cardpool: pd.DataFrame):
@@ -68,21 +66,25 @@ def faction_checker(pack: pd.DataFrame, faction_list):
     return None
 
 
+# TODO: compress the 2 faction replace functions into one
 def faction_replace(pack: pd.DataFrame, faction: str, cardpool: pd.DataFrame):
     """
     Replace a card in the pack with a card from the cardpool
     """
     to_be_replaced_card = pack.sample(1)
-
-    card = cardpool[
-        (cardpool["Faction"] == faction)
-        & (cardpool["Rarity"] == to_be_replaced_card["Rarity"].values[0])
-    ].sample(1)
-    cols = list(pack.columns)
-    pack.loc[pack["Card"] == to_be_replaced_card["Card"].values[0], cols] = card[
-        cols
-    ].values[0]
-    return pack
+    try:
+        card = cardpool[
+            (cardpool["Faction"] == faction)
+            & (cardpool["Rarity"] == to_be_replaced_card["Rarity"].values[0])
+        ].sample(1)
+        cols = list(pack.columns)
+        pack.loc[pack["Card"] == to_be_replaced_card["Card"].values[0], cols] = card[
+            cols
+        ].values[0]
+        return pack
+    except ValueError:
+        print(f"{to_be_replaced_card} could not be replaced with {faction}")
+        raise ValueError
 
 
 def faction_swap(
@@ -91,7 +93,6 @@ def faction_swap(
     faction_list=["haas-bioroid", "jinteki", "nbn", "weyland", "Neutral"],
 ):
     while True:
-        deduplicator(pack, cardpool)
         missing_faction = faction_checker(pack, faction_list)
         if missing_faction is None:
             return pack
@@ -99,24 +100,29 @@ def faction_swap(
 
 
 def deduplicator(pack: pd.DataFrame, cardpool: pd.DataFrame):
-    # Find duplicate cards in the pack and replace them with cards of the same rarity
-    duplicated_cards = pack[pack.duplicated(subset=["Card"])]
-    unique_cards = pack[~pack.duplicated(subset=["Card"])]
-    cols = list(pack.columns)
-    for row in duplicated_cards.iterrows():
-        card = cardpool[
-            (cardpool["Rarity"] == row[1]["Rarity"])
-            & (cardpool["Type"] == row[1]["Type"])
-        ].sample(1)
-        for col in cols:
-            row[1][col] = card[col].values[0]
-    new_pack = pd.concat([unique_cards, duplicated_cards])
-    if new_pack.duplicated(subset=["Card"]).sum() > 0:
-        return deduplicator(new_pack, cardpool)
-    return new_pack
+    while pack.duplicated(subset=["Card"]).sum() > 0:
+        # Find duplicate cards in the pack and replace them with cards of the same rarity
+        duplicated_cards = pack[pack.duplicated(subset=["Card"])]
+        unique_cards = pack[~pack.duplicated(subset=["Card"])]
+        cols = list(pack.columns)
+        for row in duplicated_cards.iterrows():
+            if row[1]["Type"] == "Agenda":
+                card = cardpool[
+                    (cardpool["Rarity"] == row[1]["Rarity"])
+                    & (cardpool["Type"] == "Agenda")
+                ].sample(1)
+            else:
+                card = cardpool[
+                    (cardpool["Rarity"] == row[1]["Rarity"])
+                    & (cardpool["Type"] != "Agenda")
+                ].sample(1)
+            for col in cols:
+                row[1][col] = card[col].values[0]
+        pack = pd.concat([unique_cards, duplicated_cards])
+    return pack
 
 
-def make_corp_pack(cardpool: pd.DataFrame):
+def make_corp_pack(cardpool: pd.DataFrame = CARDPOOL):
     """
     13 card packs - with 5 rounds of drafting gets you 65 cards
 
@@ -142,14 +148,6 @@ def make_corp_pack(cardpool: pd.DataFrame):
     pack_commons = pack[~pack.isin(pack_upgrades)].dropna()
     pack_upgrades = upgrade_baseline(pack_upgrades, cardpool)
     pack = pd.concat([pack_upgrades, pack_commons])
+    pack = deduplicator(pack, cardpool)
     pack = faction_swap(pack, cardpool)
     return pack
-
-
-def add_pack_to_db(pack: pd.DataFrame):
-    card_ids = [
-        Card.query.filter_by(card_name=card).first() for card in pack["Card"].values
-    ]
-    pack = Pack(cards=card_ids)
-    db.session.add(pack)
-    db.session.commit()

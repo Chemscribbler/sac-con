@@ -8,4 +8,4 @@ app.config.from_object(Config)
 db = SQLAlchemy(app)  # This is the database object
 migrate = Migrate(app, db)  # This is the migration engine
 
-from source.models import User, Card, Draft, Deck, Pack
+from pack_maker_drafter.models import User, Card, Draft, Deck, Pack
